@@ -120,21 +120,21 @@ From the application’s perspective, everything appears **fully legitimate and 
 | Xbox 360 → JAVA          | TU1 To Any Version | ✔️             |
 | PS3 → JAVA               | TU1 To Any Version | ✔️             |
 | Wii U → JAVA             | TU1 To Any Version | ✔️             |
-| JAVA → Xbox 360          | PC Java To TU1-TU75 |⚠️ Partially   |
-| JAVA → PS3               | PC Java To TU1-TU75 |⚠️ Partially   |
-| JAVA → Wii U             | PC Java To TU1-TU75 |⚠️ Partially   |
-| BEDROCK → Xbox 360       | BEDROCK To TU1-TU75 |⚠️ Partially   |
-| BEDROCK → PS3            | BEDROCK To TU1-TU75 |⚠️ Partially   |
-| BEDROCK → Wii U          | BEDROCK To TU1-TU75 |⚠️ Partially   |
+| JAVA → Xbox 360          | PC Java To TU1-TU75 | ✔️             |
+| JAVA → PS3               | PC Java To TU1-TU75 | ✔️             |
+| JAVA → Wii U             | PC Java To TU1-TU75 | ✔️             |
+| BEDROCK → Xbox 360       | BEDROCK To TU1-TU75 | ✔️             |
+| BEDROCK → PS3            | BEDROCK To TU1-TU75 | ✔️             |
+| BEDROCK → Wii U          | BEDROCK To TU1-TU75 | ✔️             |
 | JAVA → BEDROCK           |PC Java To BEDROCK PE| ✔️             |
 | BEDROCK → JAVA           |BEDROCK PE To PC Java| ✔️             |
 
 ### ⚠️TAKE NOTE:
 > The mobs in mob spawners are removed during conversion to prevent save failures and potential world crashes.
 > 
-> Converting Console worlds to Java/Bedrock works without any issues. **Fixed: June 23 2026 1:42 PM**
+> Converting Console worlds to Java/Bedrock works without any issues. **June 23 2026 1:42 PM — Fully Fixed July 4th 2026 11:43 PM**
 >
-> Converting Java/Bedrock worlds to Console may currently result in the loss of some items, blocks, and mobs. This is a known limitation and will be addressed in a future update—hopefully soon.This occurs because the converter can successfully read newer chunks (such as TU75) but cannot yet write them back correctly, while it works properly for TU68 chunks.
+> Converting Java/Bedrock worlds to Console Edition currently works only for TU73–TU75 (TU68 not yet supported). All mobs, items, and blocks are preserved 1:1 with TU75. Anything from newer Java versions or modded content is removed (blocks replaced with air, mobs/items deleted). The sky limit is changed to 256 for compatibility. Works without issues.
 >
 >In comparison, the official UMT software removes mobs and some items during both console to console and Java to console conversions, while my version preserves this data for console to console worlds.
 >
