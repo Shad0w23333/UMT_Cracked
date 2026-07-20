@@ -141,6 +141,10 @@ From the application’s perspective, everything appears **fully legitimate and 
 > For Java/Bedrock conversions and when downgrading to older versions, I am using Chunker. It is faster and easier to work with, so please keep this in mind.
 
 <details><summary>Click Here To See What UMT Changes/Removes</summary>
+  
+<strong>UMT Removes TU68-TU73</strong>
+
+- Game Rules File Removes It For Console To Console Convertion
 
 <strong>UMT Replaces TU73</strong>
 
