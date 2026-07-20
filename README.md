@@ -136,7 +136,7 @@ From the application’s perspective, everything appears **fully legitimate and 
 >
 > Converting Java/Bedrock worlds to Console Edition currently works only for TU73–TU75 (TU68 not yet supported). All mobs, items, and blocks are preserved 1:1 with TU75. Anything from newer Java versions or modded content is removed (blocks replaced with air, mobs/items deleted). The sky limit is changed to 256 for compatibility. Works without issues.
 >
->In comparison, the official UMT software removes mobs and some items during Console To Console conversions, while my version fully preserves this data. For Java To Console conversions, it removes almost every single mob (leaving only about 5-10), does the same with most items, changes some items to older versions, removes or messes up some blocks, and deletes some water blocks. In contrast, my version preserves this data for Java To Console worlds as well.
+>In comparison, the official UMT software removes mobs and some items during Console To Console conversions, while my version fully preserves this data. For Java To Console conversions, it removes almost every single mob (leaving only about 5-10), does the same with most items, changes some items to older versions, removes or messes up some blocks, and removes some mob heads from TU68-TU73 it also deletes some water blocks. In contrast, my version preserves this data for Java To Console worlds as well.
 >
 > For Java/Bedrock conversions and when downgrading to older versions, I am using Chunker. It is faster and easier to work with, so please keep this in mind.
 
