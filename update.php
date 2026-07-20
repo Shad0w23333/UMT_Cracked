@@ -1,21 +1,29 @@
 <?php
-$file = __DIR__ . 'https://github.com/NewAgent2025/NewAgentsSite/blob/main/Update_UMT_Cracked/UMT_Cracked.exe';
+// Use the official raw URL format for GitHub files
+$file_url = 'https://raw.githubusercontent.com/NewAgent2025/NewAgentsSite/main/Update_UMT_Cracked/UMT_Cracked.exe';
 
-if (!file_exists($file)) {
+// Optional: Stream the file content directly into a temporary variable or check headers
+// To check if the remote file exists/is reachable, you can use a basic header check or @file_get_contents
+$file_data = @file_get_contents($file_url);
+
+if ($file_data === false) {
     http_response_code(404);
-    echo "File not found!";
+    echo "File not found or unable to download from GitHub!";
     exit;
 }
 
+// Set headers for file download
 header('Content-Description: File Transfer');
 header('Content-Type: application/octet-stream');
-header('Content-Disposition: attachment; filename="' . basename($file) . '"');
+header('Content-Disposition: attachment; filename="UMT_Cracked.exe"');
 header('Expires: 0');
 header('Cache-Control: must-revalidate');
 header('Pragma: public');
-header('Content-Length: ' . filesize($file));
+header('Content-Length: ' . strlen($file_data));
 
+// Clear output buffer
 flush();
 
-readfile($file);
+// Output the raw file data
+echo $file_data;
 exit;
