@@ -1,0 +1,1699 @@
+[
+  {
+    "pc_potted_id": "minecraft:potted_air",
+    "console_potted_id": "0"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_stone",
+    "console_potted_id": "1"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_grass",
+    "console_potted_id": "2"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_dirt",
+    "console_potted_id": "3"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_cobblestone",
+    "console_potted_id": "4"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_oak_planks",
+    "console_potted_id": "5"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_sapling",
+    "console_potted_id": "6"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_bedrock",
+    "console_potted_id": "7"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_water",
+    "console_potted_id": "8"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_flowing_water",
+    "console_potted_id": "9"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_lava",
+    "console_potted_id": "10"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_flowing_lava",
+    "console_potted_id": "11"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_sand",
+    "console_potted_id": "12"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_gravel",
+    "console_potted_id": "13"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_gold_ore",
+    "console_potted_id": "14"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_iron_ore",
+    "console_potted_id": "15"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_coal_ore",
+    "console_potted_id": "16"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_spruce_log",
+    "console_potted_id": "17"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_spruce_leaves",
+    "console_potted_id": "18"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_wet_sponge",
+    "console_potted_id": "19"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_glass",
+    "console_potted_id": "20"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_lapis_ore",
+    "console_potted_id": "21"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_lapis_block",
+    "console_potted_id": "22"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_dispenser",
+    "console_potted_id": "23"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_sandstone",
+    "console_potted_id": "24"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_noteblock",
+    "console_potted_id": "25"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_bed",
+    "console_potted_id": "26"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_golden_rail",
+    "console_potted_id": "27"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_detector_rail",
+    "console_potted_id": "28"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_sticky_piston",
+    "console_potted_id": "29"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_web",
+    "console_potted_id": "30"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_tallgrass",
+    "console_potted_id": "31"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_deadbush",
+    "console_potted_id": "32"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_piston",
+    "console_potted_id": "33"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_piston_head",
+    "console_potted_id": "34"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_wool",
+    "console_potted_id": "35"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_piston_extension",
+    "console_potted_id": "36"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_yellow_flower",
+    "console_potted_id": "37"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_red_flower",
+    "console_potted_id": "38"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_brown_mushroom",
+    "console_potted_id": "39"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_red_mushroom",
+    "console_potted_id": "40"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_gold_block",
+    "console_potted_id": "41"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_iron_block",
+    "console_potted_id": "42"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_double_stone_slab",
+    "console_potted_id": "43"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_stone_slab",
+    "console_potted_id": "44"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_brick_block",
+    "console_potted_id": "45"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_tnt",
+    "console_potted_id": "46"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_bookshelf",
+    "console_potted_id": "47"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_mossy_cobblestone",
+    "console_potted_id": "48"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_obsidian",
+    "console_potted_id": "49"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_torch",
+    "console_potted_id": "50"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_fire",
+    "console_potted_id": "51"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_mob_spawner",
+    "console_potted_id": "52"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_oak_stairs",
+    "console_potted_id": "53"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_chest",
+    "console_potted_id": "54"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_redstone_wire",
+    "console_potted_id": "55"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_diamond_ore",
+    "console_potted_id": "56"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_diamond_block",
+    "console_potted_id": "57"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_crafting_table",
+    "console_potted_id": "58"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_wheat",
+    "console_potted_id": "59"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_farmland",
+    "console_potted_id": "60"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_furnace",
+    "console_potted_id": "61"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_lit_furnace",
+    "console_potted_id": "62"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_standing_sign",
+    "console_potted_id": "63"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_wooden_door",
+    "console_potted_id": "64"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_ladder",
+    "console_potted_id": "65"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_rail",
+    "console_potted_id": "66"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_stone_stairs",
+    "console_potted_id": "67"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_wall_sign",
+    "console_potted_id": "68"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_lever",
+    "console_potted_id": "69"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_stone_pressure_plate",
+    "console_potted_id": "70"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_iron_door",
+    "console_potted_id": "71"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_wooden_pressure_plate",
+    "console_potted_id": "72"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_redstone_ore",
+    "console_potted_id": "73"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_lit_redstone_ore",
+    "console_potted_id": "74"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_unlit_redstone_torch",
+    "console_potted_id": "75"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_redstone_torch",
+    "console_potted_id": "76"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_stone_button",
+    "console_potted_id": "77"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_snow_layer",
+    "console_potted_id": "78"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_ice",
+    "console_potted_id": "79"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_snow",
+    "console_potted_id": "80"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_cactus",
+    "console_potted_id": "81"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_clay",
+    "console_potted_id": "82"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_reeds",
+    "console_potted_id": "83"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_jukebox",
+    "console_potted_id": "84"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_fence",
+    "console_potted_id": "85"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_pumpkin",
+    "console_potted_id": "86"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_netherrack",
+    "console_potted_id": "87"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_soul_sand",
+    "console_potted_id": "88"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_glowstone",
+    "console_potted_id": "89"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_portal",
+    "console_potted_id": "90"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_lit_pumpkin",
+    "console_potted_id": "91"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_cake",
+    "console_potted_id": "92"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_unpowered_repeater",
+    "console_potted_id": "93"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_powered_repeater",
+    "console_potted_id": "94"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_stained_glass",
+    "console_potted_id": "95"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_trapdoor",
+    "console_potted_id": "96"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_monster_egg",
+    "console_potted_id": "97"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_stonebrick",
+    "console_potted_id": "98"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_brown_mushroom_block",
+    "console_potted_id": "99"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_red_mushroom_block",
+    "console_potted_id": "100"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_iron_bars",
+    "console_potted_id": "101"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_glass_pane",
+    "console_potted_id": "102"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_melon_block",
+    "console_potted_id": "103"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_pumpkin_stem",
+    "console_potted_id": "104"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_melon_stem",
+    "console_potted_id": "105"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_vine",
+    "console_potted_id": "106"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_fence_gate",
+    "console_potted_id": "107"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_brick_stairs",
+    "console_potted_id": "108"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_stone_brick_stairs",
+    "console_potted_id": "109"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_mycelium",
+    "console_potted_id": "110"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_waterlily",
+    "console_potted_id": "111"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_nether_brick",
+    "console_potted_id": "112"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_nether_brick_fence",
+    "console_potted_id": "113"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_nether_brick_stairs",
+    "console_potted_id": "114"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_nether_wart",
+    "console_potted_id": "115"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_enchanting_table",
+    "console_potted_id": "116"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_brewing_stand",
+    "console_potted_id": "117"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_cauldron",
+    "console_potted_id": "118"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_end_portal",
+    "console_potted_id": "119"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_end_portal_frame",
+    "console_potted_id": "120"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_end_stone",
+    "console_potted_id": "121"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_dragon_egg",
+    "console_potted_id": "122"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_redstone_lamp",
+    "console_potted_id": "123"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_lit_redstone_lamp",
+    "console_potted_id": "124"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_double_wooden_slab",
+    "console_potted_id": "125"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_wooden_slab",
+    "console_potted_id": "126"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_cocoa",
+    "console_potted_id": "127"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_sandstone_stairs",
+    "console_potted_id": "128"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_emerald_ore",
+    "console_potted_id": "129"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_ender_chest",
+    "console_potted_id": "130"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_tripwire_hook",
+    "console_potted_id": "131"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_tripwire",
+    "console_potted_id": "132"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_emerald_block",
+    "console_potted_id": "133"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_spruce_stairs",
+    "console_potted_id": "134"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_birch_stairs",
+    "console_potted_id": "135"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_jungle_stairs",
+    "console_potted_id": "136"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_command_block",
+    "console_potted_id": "137"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_beacon",
+    "console_potted_id": "138"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_cobblestone_wall",
+    "console_potted_id": "139"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_flower_pot",
+    "console_potted_id": "140"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_carrots",
+    "console_potted_id": "141"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_potatoes",
+    "console_potted_id": "142"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_wooden_button",
+    "console_potted_id": "143"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_skull",
+    "console_potted_id": "144"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_anvil",
+    "console_potted_id": "145"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_trapped_chest",
+    "console_potted_id": "146"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_light_weighted_pressure_plate",
+    "console_potted_id": "147"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_heavy_weighted_pressure_plate",
+    "console_potted_id": "148"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_unpowered_comparator",
+    "console_potted_id": "149"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_powered_comparator",
+    "console_potted_id": "150"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_daylight_detector",
+    "console_potted_id": "151"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_redstone_block",
+    "console_potted_id": "152"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_quartz_ore",
+    "console_potted_id": "153"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_hopper",
+    "console_potted_id": "154"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_quartz_block",
+    "console_potted_id": "155"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_quartz_stairs",
+    "console_potted_id": "156"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_activator_rail",
+    "console_potted_id": "157"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_dropper",
+    "console_potted_id": "158"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_stained_hardened_clay",
+    "console_potted_id": "159"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_stained_glass_pane",
+    "console_potted_id": "160"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_leaves2",
+    "console_potted_id": "161"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_log2",
+    "console_potted_id": "162"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_acacia_stairs",
+    "console_potted_id": "163"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_dark_oak_stairs",
+    "console_potted_id": "164"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_slime",
+    "console_potted_id": "165"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_barrier",
+    "console_potted_id": "166"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_iron_trapdoor",
+    "console_potted_id": "167"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_prismarine",
+    "console_potted_id": "168"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_sea_lantern",
+    "console_potted_id": "169"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_hay_block",
+    "console_potted_id": "170"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_carpet",
+    "console_potted_id": "171"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_hardened_clay",
+    "console_potted_id": "172"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_coal_block",
+    "console_potted_id": "173"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_packed_ice",
+    "console_potted_id": "174"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_double_plant",
+    "console_potted_id": "175"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_standing_banner",
+    "console_potted_id": "176"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_wall_banner",
+    "console_potted_id": "177"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_daylight_detector_inverted",
+    "console_potted_id": "178"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_red_sandstone",
+    "console_potted_id": "179"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_red_sandstone_stairs",
+    "console_potted_id": "180"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_double_stone_slab2",
+    "console_potted_id": "181"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_stone_slab2",
+    "console_potted_id": "182"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_spruce_fence_gate",
+    "console_potted_id": "183"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_birch_fence_gate",
+    "console_potted_id": "184"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_jungle_fence_gate",
+    "console_potted_id": "185"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_dark_oak_fence_gate",
+    "console_potted_id": "186"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_acacia_fence_gate",
+    "console_potted_id": "187"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_spruce_fence",
+    "console_potted_id": "188"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_birch_fence",
+    "console_potted_id": "189"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_jungle_fence",
+    "console_potted_id": "190"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_dark_oak_fence",
+    "console_potted_id": "191"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_acacia_fence",
+    "console_potted_id": "192"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_spruce_door",
+    "console_potted_id": "193"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_birch_door",
+    "console_potted_id": "194"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_jungle_door",
+    "console_potted_id": "195"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_acacia_door",
+    "console_potted_id": "196"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_dark_oak_door",
+    "console_potted_id": "197"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_end_rod",
+    "console_potted_id": "198"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_chorus_plant",
+    "console_potted_id": "199"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_chorus_flower",
+    "console_potted_id": "200"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_purpur_block",
+    "console_potted_id": "201"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_purpur_pillar",
+    "console_potted_id": "202"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_purpur_stairs",
+    "console_potted_id": "203"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_purpur_double_slab",
+    "console_potted_id": "204"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_purpur_slab",
+    "console_potted_id": "205"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_end_bricks",
+    "console_potted_id": "206"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_beetroots",
+    "console_potted_id": "207"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_grass_path",
+    "console_potted_id": "208"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_end_gateway",
+    "console_potted_id": "209"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_repeating_command_block",
+    "console_potted_id": "210"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_chain_command_block",
+    "console_potted_id": "211"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_frosted_ice",
+    "console_potted_id": "212"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_magma",
+    "console_potted_id": "213"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_nether_wart_block",
+    "console_potted_id": "214"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_red_nether_brick",
+    "console_potted_id": "215"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_bone_block",
+    "console_potted_id": "216"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_structure_void",
+    "console_potted_id": "217"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_observer",
+    "console_potted_id": "218"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_white_shulker_box",
+    "console_potted_id": "219"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_orange_shulker_box",
+    "console_potted_id": "220"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_magenta_shulker_box",
+    "console_potted_id": "221"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_light_blue_shulker_box",
+    "console_potted_id": "222"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_yellow_shulker_box",
+    "console_potted_id": "223"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_lime_shulker_box",
+    "console_potted_id": "224"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_pink_shulker_box",
+    "console_potted_id": "225"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_gray_shulker_box",
+    "console_potted_id": "226"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_light_gray_shulker_box",
+    "console_potted_id": "227"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_cyan_shulker_box",
+    "console_potted_id": "228"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_purple_shulker_box",
+    "console_potted_id": "229"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_blue_shulker_box",
+    "console_potted_id": "230"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_brown_shulker_box",
+    "console_potted_id": "231"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_green_shulker_box",
+    "console_potted_id": "232"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_red_shulker_box",
+    "console_potted_id": "233"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_black_shulker_box",
+    "console_potted_id": "234"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_white_glazed_terracotta",
+    "console_potted_id": "235"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_orange_glazed_terracotta",
+    "console_potted_id": "236"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_magenta_glazed_terracotta",
+    "console_potted_id": "237"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_light_blue_glazed_terracotta",
+    "console_potted_id": "238"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_yellow_glazed_terracotta",
+    "console_potted_id": "239"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_lime_glazed_terracotta",
+    "console_potted_id": "240"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_pink_glazed_terracotta",
+    "console_potted_id": "241"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_gray_glazed_terracotta",
+    "console_potted_id": "242"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_light_gray_glazed_terracotta",
+    "console_potted_id": "243"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_cyan_glazed_terracotta",
+    "console_potted_id": "244"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_purple_glazed_terracotta",
+    "console_potted_id": "245"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_blue_glazed_terracotta",
+    "console_potted_id": "246"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_brown_glazed_terracotta",
+    "console_potted_id": "247"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_green_glazed_terracotta",
+    "console_potted_id": "248"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_red_glazed_terracotta",
+    "console_potted_id": "249"
+  },
+  { 
+    "pc_potted_id": "minecraft:potted_black_glazed_terracotta",
+    "console_potted_id": "250"
+  },
+  { "pc_potted_id": "minecraft:potted_concrete",
+    "console_potted_id": "251"
+  },
+  { "pc_potted_id": "minecraft:potted_concrete_powder",
+    "console_potted_id": "252"
+  },
+  { "pc_potted_id": "minecraft:potted_iron_shovel",
+    "console_potted_id": "256"
+  },
+  { "pc_potted_id": "minecraft:potted_iron_pickaxe",
+    "console_potted_id": "257"
+  },
+  { "pc_potted_id": "minecraft:potted_iron_axe",
+    "console_potted_id": "258"
+  },
+  { "pc_potted_id": "minecraft:potted_flint_and_steel",
+    "console_potted_id": "259"
+  },
+  { "pc_potted_id": "minecraft:potted_apple",
+    "console_potted_id": "260"
+  },
+  { "pc_potted_id": "minecraft:potted_bow",
+    "console_potted_id": "261"
+  },
+  { "pc_potted_id": "minecraft:potted_arrow",
+    "console_potted_id": "262"
+  },
+  { "pc_potted_id": "minecraft:potted_coal",
+    "console_potted_id": "263"
+  },
+  { "pc_potted_id": "minecraft:potted_diamond",
+    "console_potted_id": "264"
+  },
+  { "pc_potted_id": "minecraft:potted_iron_ingot",
+    "console_potted_id": "265"
+  },
+  { "pc_potted_id": "minecraft:potted_gold_ingot",
+    "console_potted_id": "266"
+  },
+  { "pc_potted_id": "minecraft:potted_iron_sword",
+    "console_potted_id": "267"
+  },
+  { "pc_potted_id": "minecraft:potted_wooden_sword",
+    "console_potted_id": "268"
+  },
+  { "pc_potted_id": "minecraft:potted_wooden_shovel",
+    "console_potted_id": "269"
+  },
+  { "pc_potted_id": "minecraft:potted_wooden_pickaxe",
+    "console_potted_id": "270"
+  },
+  { "pc_potted_id": "minecraft:potted_wooden_axe",
+    "console_potted_id": "271"
+  },
+  { "pc_potted_id": "minecraft:potted_stone_sword",
+    "console_potted_id": "272"
+  },
+  { "pc_potted_id": "minecraft:potted_stone_shovel",
+    "console_potted_id": "273"
+  },
+  { "pc_potted_id": "minecraft:potted_stone_pickaxe",
+    "console_potted_id": "274"
+  },
+  { "pc_potted_id": "minecraft:potted_stone_axe",
+    "console_potted_id": "275"
+  },
+  { "pc_potted_id": "minecraft:potted_diamond_sword",
+    "console_potted_id": "276"
+  },
+  { "pc_potted_id": "minecraft:potted_diamond_shovel",
+    "console_potted_id": "277"
+  },
+  { "pc_potted_id": "minecraft:potted_diamond_pickaxe",
+    "console_potted_id": "278"
+  },
+  { "pc_potted_id": "minecraft:potted_diamond_axe",
+    "console_potted_id": "279"
+  },
+  { "pc_potted_id": "minecraft:potted_stick",
+    "console_potted_id": "280"
+  },
+  { "pc_potted_id": "minecraft:potted_bowl",
+    "console_potted_id": "281"
+  },
+  { "pc_potted_id": "minecraft:potted_mushroom_stew",
+    "console_potted_id": "282"
+  },
+  { "pc_potted_id": "minecraft:potted_golden_sword",
+    "console_potted_id": "283"
+  },
+  { "pc_potted_id": "minecraft:potted_golden_shovel",
+    "console_potted_id": "284"
+  },
+  { "pc_potted_id": "minecraft:potted_golden_pickaxe",
+    "console_potted_id": "285"
+  },
+  { "pc_potted_id": "minecraft:potted_golden_axe",
+    "console_potted_id": "286"
+  },
+  { "pc_potted_id": "minecraft:potted_string",
+    "console_potted_id": "287"
+  },
+  { "pc_potted_id": "minecraft:potted_feather",
+    "console_potted_id": "288"
+  },
+  { "pc_potted_id": "minecraft:potted_gunpowder",
+    "console_potted_id": "289"
+  },
+  { "pc_potted_id": "minecraft:potted_wooden_hoe",
+    "console_potted_id": "290"
+  },
+  { "pc_potted_id": "minecraft:potted_stone_hoe",
+    "console_potted_id": "291"
+  },
+  { "pc_potted_id": "minecraft:potted_iron_hoe",
+    "console_potted_id": "292"
+  },
+  { "pc_potted_id": "minecraft:potted_diamond_hoe",
+    "console_potted_id": "293"
+  },
+  { "pc_potted_id": "minecraft:potted_golden_hoe",
+    "console_potted_id": "294"
+  },
+  { "pc_potted_id": "minecraft:potted_wheat_seeds",
+    "console_potted_id": "295"
+  },
+  { "pc_potted_id": "minecraft:potted_wheat",
+    "console_potted_id": "296"
+  },
+  { "pc_potted_id": "minecraft:potted_bread",
+    "console_potted_id": "297"
+  },
+  { "pc_potted_id": "minecraft:potted_leather_helmet",
+    "console_potted_id": "298"
+  },
+  { "pc_potted_id": "minecraft:potted_leather_chestplate",
+    "console_potted_id": "299"
+  },
+  { "pc_potted_id": "minecraft:potted_leather_leggings",
+    "console_potted_id": "300"
+  },
+  { "pc_potted_id": "minecraft:potted_leather_boots",
+    "console_potted_id": "301"
+  },
+  { "pc_potted_id": "minecraft:potted_chainmail_helmet",
+    "console_potted_id": "302"
+  },
+  { "pc_potted_id": "minecraft:potted_chainmail_chestplate",
+    "console_potted_id": "303"
+  },
+  { "pc_potted_id": "minecraft:potted_chainmail_leggings",
+    "console_potted_id": "304"
+  },
+  { "pc_potted_id": "minecraft:potted_chainmail_boots",
+    "console_potted_id": "305"
+  },
+  { "pc_potted_id": "minecraft:potted_iron_helmet",
+    "console_potted_id": "306"
+  },
+  { "pc_potted_id": "minecraft:potted_iron_chestplate",
+    "console_potted_id": "307"
+  },
+  { "pc_potted_id": "minecraft:potted_iron_leggings",
+    "console_potted_id": "308"
+  },
+  { "pc_potted_id": "minecraft:potted_iron_boots",
+    "console_potted_id": "309"
+  },
+  { "pc_potted_id": "minecraft:potted_diamond_helmet",
+    "console_potted_id": "310"
+  },
+  { "pc_potted_id": "minecraft:potted_diamond_chestplate",
+    "console_potted_id": "311"
+  },
+  { "pc_potted_id": "minecraft:potted_diamond_leggings",
+    "console_potted_id": "312"
+  },
+  { "pc_potted_id": "minecraft:potted_diamond_boots",
+    "console_potted_id": "313"
+  },
+  { "pc_potted_id": "minecraft:potted_golden_helmet",
+    "console_potted_id": "314"
+  },
+  { "pc_potted_id": "minecraft:potted_golden_chestplate",
+    "console_potted_id": "315"
+  },
+  { "pc_potted_id": "minecraft:potted_golden_leggings",
+    "console_potted_id": "316"
+  },
+  { "pc_potted_id": "minecraft:potted_golden_boots",
+    "console_potted_id": "317"
+  },
+  { "pc_potted_id": "minecraft:potted_flint",
+    "console_potted_id": "318"
+  },
+  { "pc_potted_id": "minecraft:potted_porkchop",
+    "console_potted_id": "319"
+  },
+  { "pc_potted_id": "minecraft:potted_cooked_porkchop",
+    "console_potted_id": "320"
+  },
+  { "pc_potted_id": "minecraft:potted_painting",
+    "console_potted_id": "321"
+  },
+  { "pc_potted_id": "minecraft:potted_golden_apple",
+    "console_potted_id": "322"
+  },
+  { "pc_potted_id": "minecraft:potted_sign",
+    "console_potted_id": "323"
+  },
+  { "pc_potted_id": "minecraft:potted_wooden_door",
+    "console_potted_id": "324"
+  },
+  { "pc_potted_id": "minecraft:potted_bucket",
+    "console_potted_id": "325"
+  },
+  { "pc_potted_id": "minecraft:potted_water_bucket",
+    "console_potted_id": "326"
+  },
+  { "pc_potted_id": "minecraft:potted_lava_bucket",
+    "console_potted_id": "327"
+  },
+  { "pc_potted_id": "minecraft:potted_minecart",
+    "console_potted_id": "328"
+  },
+  { "pc_potted_id": "minecraft:potted_saddle",
+    "console_potted_id": "329"
+  },
+  { "pc_potted_id": "minecraft:potted_iron_door",
+    "console_potted_id": "330"
+  },
+  { "pc_potted_id": "minecraft:potted_redstone",
+    "console_potted_id": "331"
+  },
+  { "pc_potted_id": "minecraft:potted_snowball",
+    "console_potted_id": "332"
+  },
+  { "pc_potted_id": "minecraft:potted_boat",
+    "console_potted_id": "333"
+  },
+  { "pc_potted_id": "minecraft:potted_leather",
+    "console_potted_id": "334"
+  },
+  { "pc_potted_id": "minecraft:potted_milk_bucket",
+    "console_potted_id": "335"
+  },
+  { "pc_potted_id": "minecraft:potted_brick",
+    "console_potted_id": "336"
+  },
+  { "pc_potted_id": "minecraft:potted_clay_ball",
+    "console_potted_id": "337"
+  },
+  { "pc_potted_id": "minecraft:potted_reeds",
+    "console_potted_id": "338"
+  },
+  { "pc_potted_id": "minecraft:potted_paper",
+    "console_potted_id": "339"
+  },
+  { "pc_potted_id": "minecraft:potted_book",
+    "console_potted_id": "340"
+  },
+  { "pc_potted_id": "minecraft:potted_slime_ball",
+    "console_potted_id": "341"
+  },
+  { "pc_potted_id": "minecraft:potted_chest_minecart",
+    "console_potted_id": "342"
+  },
+  { "pc_potted_id": "minecraft:potted_furnace_minecart",
+    "console_potted_id": "343"
+  },
+  { "pc_potted_id": "minecraft:potted_egg",
+    "console_potted_id": "344"
+  },
+  { "pc_potted_id": "minecraft:potted_compass",
+    "console_potted_id": "345"
+  },
+  { "pc_potted_id": "minecraft:potted_fishing_rod",
+    "console_potted_id": "346"
+  },
+  { "pc_potted_id": "minecraft:potted_clock",
+    "console_potted_id": "347"
+  },
+  { "pc_potted_id": "minecraft:potted_glowstone_dust",
+    "console_potted_id": "348"
+  },
+  { "pc_potted_id": "minecraft:potted_fish",
+    "console_potted_id": "349"
+  },
+  { "pc_potted_id": "minecraft:potted_cooked_fish",
+    "console_potted_id": "350"
+  },
+  { "pc_potted_id": "minecraft:potted_dye",
+    "console_potted_id": "351"
+  },
+  { "pc_potted_id": "minecraft:potted_bone",
+    "console_potted_id": "352"
+  },
+  { "pc_potted_id": "minecraft:potted_sugar",
+    "console_potted_id": "353"
+  },
+  { "pc_potted_id": "minecraft:potted_cake",
+    "console_potted_id": "354"
+  },
+  { "pc_potted_id": "minecraft:potted_bed",
+    "console_potted_id": "355"
+  },
+  { "pc_potted_id": "minecraft:potted_repeater",
+    "console_potted_id": "356"
+  },
+  { "pc_potted_id": "minecraft:potted_cookie",
+    "console_potted_id": "357"
+  },
+  { "pc_potted_id": "minecraft:potted_filled_map",
+    "console_potted_id": "358"
+  },
+  { "pc_potted_id": "minecraft:potted_shears",
+    "console_potted_id": "359"
+  },
+  { "pc_potted_id": "minecraft:potted_melon",
+    "console_potted_id": "360"
+  },
+  { "pc_potted_id": "minecraft:potted_pumpkin_seeds",
+    "console_potted_id": "361"
+  },
+  { "pc_potted_id": "minecraft:potted_melon_seeds",
+    "console_potted_id": "362"
+  },
+  { "pc_potted_id": "minecraft:potted_beef",
+    "console_potted_id": "363"
+  },
+  { "pc_potted_id": "minecraft:potted_cooked_beef",
+    "console_potted_id": "364"
+  },
+  { "pc_potted_id": "minecraft:potted_chicken",
+    "console_potted_id": "365"
+  },
+  { "pc_potted_id": "minecraft:potted_cooked_chicken",
+    "console_potted_id": "366"
+  },
+  { "pc_potted_id": "minecraft:potted_rotten_flesh",
+    "console_potted_id": "367"
+  },
+  { "pc_potted_id": "minecraft:potted_ender_pearl",
+    "console_potted_id": "368"
+  },
+  { "pc_potted_id": "minecraft:potted_blaze_rod",
+    "console_potted_id": "369"
+  },
+  { "pc_potted_id": "minecraft:potted_ghast_tear",
+    "console_potted_id": "370"
+  },
+  { "pc_potted_id": "minecraft:potted_gold_nugget",
+    "console_potted_id": "371"
+  },
+  { "pc_potted_id": "minecraft:potted_nether_wart",
+    "console_potted_id": "372"
+  },
+  { "pc_potted_id": "minecraft:potted_potion",
+    "console_potted_id": "373"
+  },
+  { "pc_potted_id": "minecraft:potted_glass_bottle",
+    "console_potted_id": "374"
+  },
+  { "pc_potted_id": "minecraft:potted_spider_eye",
+    "console_potted_id": "375"
+  },
+  { "pc_potted_id": "minecraft:potted_fermented_spider_eye",
+    "console_potted_id": "376"
+  },
+  { "pc_potted_id": "minecraft:potted_blaze_powder",
+    "console_potted_id": "377"
+  },
+  { "pc_potted_id": "minecraft:potted_magma_cream",
+    "console_potted_id": "378"
+  },
+  { "pc_potted_id": "minecraft:potted_brewing_stand",
+    "console_potted_id": "379"
+  },
+  { "pc_potted_id": "minecraft:potted_cauldron",
+    "console_potted_id": "380"
+  },
+  { "pc_potted_id": "minecraft:potted_ender_eye",
+    "console_potted_id": "381"
+  },
+  { "pc_potted_id": "minecraft:potted_speckled_melon",
+    "console_potted_id": "382"
+  },
+  { "pc_potted_id": "minecraft:potted_spawn_egg",
+    "console_potted_id": "383"
+  },
+  { "pc_potted_id": "minecraft:potted_experience_bottle",
+    "console_potted_id": "384"
+  },
+  { "pc_potted_id": "minecraft:potted_fire_charge",
+    "console_potted_id": "385"
+  },
+  { "pc_potted_id": "minecraft:potted_writable_book",
+    "console_potted_id": "386"
+  },
+  { "pc_potted_id": "minecraft:potted_written_book",
+    "console_potted_id": "387"
+  },
+  { "pc_potted_id": "minecraft:potted_emerald",
+    "console_potted_id": "388"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_item_frame",
+    "console_potted_id": "389"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_flower_pot",
+    "console_potted_id": "390"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_carrot",
+    "console_potted_id": "391"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_potato",
+    "console_potted_id": "392"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_baked_potato",
+    "console_potted_id": "393"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_poisonous_potato",
+    "console_potted_id": "394"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_map",
+    "console_potted_id": "395"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_golden_carrot",
+    "console_potted_id": "396"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_skull",
+    "console_potted_id": "397"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_carrot_on_a_stick",
+    "console_potted_id": "398"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_nether_star",
+    "console_potted_id": "399"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_pumpkin_pie",
+    "console_potted_id": "400"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_fireworks",
+    "console_potted_id": "401"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_firework_charge",
+    "console_potted_id": "402"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_enchanted_book",
+    "console_potted_id": "403"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_comparator",
+    "console_potted_id": "404"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_netherbrick",
+    "console_potted_id": "405"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_quartz",
+    "console_potted_id": "406"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_tnt_minecart",
+    "console_potted_id": "407"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_hopper_minecart",
+    "console_potted_id": "408"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_prismarine_shard",
+    "console_potted_id": "409"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_prismarine_crystals",
+    "console_potted_id": "410"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_rabbit",
+    "console_potted_id": "411"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_cooked_rabbit",
+    "console_potted_id": "412"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_rabbit_stew",
+    "console_potted_id": "413"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_rabbit_foot",
+    "console_potted_id": "414"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_rabbit_hide",
+    "console_potted_id": "415"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_armor_stand",
+    "console_potted_id": "416"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_iron_horse_armor",
+    "console_potted_id": "417"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_golden_horse_armor",
+    "console_potted_id": "418"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_diamond_horse_armor",
+    "console_potted_id": "419"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_lead",
+    "console_potted_id": "420"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_name_tag",
+    "console_potted_id": "421"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_command_block_minecart",
+    "console_potted_id": "422"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_mutton",
+    "console_potted_id": "423"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_cooked_mutton",
+    "console_potted_id": "424"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_banner",
+    "console_potted_id": "425"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_end_crystal",
+    "console_potted_id": "426"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_spruce_door",
+    "console_potted_id": "427"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_birch_door",
+    "console_potted_id": "428"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_jungle_door",
+    "console_potted_id": "429"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_acacia_door",
+    "console_potted_id": "430"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_dark_oak_door",
+    "console_potted_id": "431"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_chorus_fruit",
+    "console_potted_id": "432"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_chorus_fruit_popped",
+    "console_potted_id": "433"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_beetroot",
+    "console_potted_id": "434"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_beetroot_seeds",
+    "console_potted_id": "435"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_beetroot_soup",
+    "console_potted_id": "436"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_dragon_breath",
+    "console_potted_id": "437"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_splash_potion",
+    "console_potted_id": "438"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_spectral_arrow",
+    "console_potted_id": "439"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_tipped_arrow",
+    "console_potted_id": "440"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_lingering_potion",
+    "console_potted_id": "441"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_shield",
+    "console_potted_id": "442"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_elytra",
+    "console_potted_id": "443"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_spruce_boat",
+    "console_potted_id": "444"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_birch_boat",
+    "console_potted_id": "445"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_jungle_boat",
+    "console_potted_id": "446"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_acacia_boat",
+    "console_potted_id": "447"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_dark_oak_boat",
+    "console_potted_id": "448"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_record_13",
+    "console_potted_id": "2256"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_record_cat",
+    "console_potted_id": "2257"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_record_blocks",
+    "console_potted_id": "2258"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_record_chirp",
+    "console_potted_id": "2259"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_record_far",
+    "console_potted_id": "2260"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_record_mall",
+    "console_potted_id": "2261"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_record_mellohi",
+    "console_potted_id": "2262"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_record_stal",
+    "console_potted_id": "2263"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_record_strad",
+    "console_potted_id": "2264"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_record_ward",
+    "console_potted_id": "2265"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_record_11",
+    "console_potted_id": "2266"
+  },
+  {
+    "pc_potted_id": "minecraft:potted_record_wait",
+    "console_potted_id": "2267"
+  }
+]

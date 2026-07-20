@@ -1,0 +1,2392 @@
+[
+  {
+    "pc_item": "minecraft:nether_quartz_ore",
+    "console_item": "minecraft:quartz_ore",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:oak_planks",
+    "console_item": "minecraft:planks",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:spruce_planks",
+    "console_item": "minecraft:planks",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:birch_planks",
+    "console_item": "minecraft:planks",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:jungle_planks",
+    "console_item": "minecraft:planks",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:acacia_planks",
+    "console_item": "minecraft:planks",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:dark_oak_planks",
+    "console_item": "minecraft:planks",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:oak_log",
+    "console_item": "minecraft:log",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:spruce_log",
+    "console_item": "minecraft:log",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:birch_log",
+    "console_item": "minecraft:log",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:jungle_log",
+    "console_item": "minecraft:log",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:acacia_log",
+    "console_item": "minecraft:log2",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:dark_oak_log",
+    "console_item": "minecraft:log2",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:cod_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:fish,"
+  },
+  {
+    "pc_item": "minecraft:salmon_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:salmon,"
+  },
+  {
+    "pc_item": "minecraft:pufferfish_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:pufferfish,"
+  },
+  {
+    "pc_item": "minecraft:tropical_fish_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:tropicalfish,"
+  },
+  {
+    "pc_item": "minecraft:parrot_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:parrot,"
+  },
+  {
+    "pc_item": "minecraft:wolf_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:wolf,"
+  },
+  {
+    "pc_item": "minecraft:ocelot_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:ocelot,"
+  },
+  {
+    "pc_item": "minecraft:polar_bear_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:polar_bear,"
+  },
+  {
+    "pc_item": "minecraft:horse_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:horse,"
+  },
+  {
+    "pc_item": "minecraft:donkey_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:donkey,"
+  },
+  {
+    "pc_item": "minecraft:mule_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:mule,"
+  },
+  {
+    "pc_item": "minecraft:skeleton_horse_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:skeleton_horse,"
+  },
+  {
+    "pc_item": "minecraft:zombie_horse_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:zombie_horse,"
+  },
+  {
+    "pc_item": "minecraft:llama_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:llama,"
+  },
+  {
+    "pc_item": "minecraft:turtle_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:turtle,"
+  },
+  {
+    "pc_item": "minecraft:dolphin_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:dolphin,"
+  },
+  {
+    "pc_item": "minecraft:phantom_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:phantom,"
+  },
+  {
+    "pc_item": "minecraft:music_disc_13",
+    "console_item": "minecraft:record_13",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:music_disc_cat",
+    "console_item": "minecraft:record_cat",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:music_disc_blocks",
+    "console_item": "minecraft:record_blocks",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:music_disc_chirp",
+    "console_item": "minecraft:record_chirp",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:music_disc_far",
+    "console_item": "minecraft:record_far",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:music_disc_mall",
+    "console_item": "minecraft:record_mall",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:music_disc_mellohi",
+    "console_item": "minecraft:record_mellohi",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:music_disc_stal",
+    "console_item": "minecraft:record_stal",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:music_disc_strad",
+    "console_item": "minecraft:record_strad",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:music_disc_ward",
+    "console_item": "minecraft:record_ward",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:music_disc_11",
+    "console_item": "minecraft:record_11",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:music_disc_wait",
+    "console_item": "minecraft:record_wait",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:firework_rocket",
+    "console_item": "minecraft:fireworks",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:spawner",
+    "console_item": "minecraft:mob_spawner",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:creeper_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:creeper,"
+  },
+  {
+    "pc_item": "minecraft:skeleton_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:skeleton,"
+  },
+  {
+    "pc_item": "minecraft:wither_skeleton_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:wither_skeleton,"
+  },
+  {
+    "pc_item": "minecraft:stray_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:stray,"
+  },
+  {
+    "pc_item": "minecraft:spider_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:spider,"
+  },
+  {
+    "pc_item": "minecraft:cave_spider_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:cave_spider,"
+  },
+  {
+    "pc_item": "minecraft:zombie_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:zombie,"
+  },
+  {
+    "pc_item": "minecraft:husk_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:husk,"
+  },
+  {
+    "pc_item": "minecraft:drowned_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:drowned,"
+  },
+  {
+    "pc_item": "minecraft:slime_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:slime,"
+  },
+  {
+    "pc_item": "minecraft:witch_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:witch,"
+  },
+  {
+    "pc_item": "minecraft:silverfish_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:silverfish,"
+  },
+  {
+    "pc_item": "minecraft:ghast_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:ghast,"
+  },
+  {
+    "pc_item": "minecraft:zombie_pigman_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:zombie_pigman,"
+  },
+  {
+    "pc_item": "minecraft:blaze_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:blaze,"
+  },
+  {
+    "pc_item": "minecraft:magma_cube_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:magma_cube,"
+  },
+  {
+    "pc_item": "minecraft:enderman_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:enderman,"
+  },
+  {
+    "pc_item": "minecraft:endermite_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:endermite,"
+  },
+  {
+    "pc_item": "minecraft:shulker_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:shulker, Byte_Tag: Color: 10,"
+  },
+  {
+    "pc_item": "minecraft:guardian_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:guardian,"
+  },
+  {
+    "pc_item": "minecraft:elder_guardian_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:elder_guardian,"
+  },
+  {
+    "pc_item": "minecraft:evoker_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:evocation_illager,"
+  },
+  {
+    "pc_item": "minecraft:vex_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:vex,"
+  },
+  {
+    "pc_item": "minecraft:vindicator_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:vindication_illager,"
+  },
+  {
+    "pc_item": "minecraft:villager_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:villager,"
+  },
+  {
+    "pc_item": "minecraft:bat_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:bat,"
+  },
+  {
+    "pc_item": "minecraft:pig_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:pig,"
+  },
+  {
+    "pc_item": "minecraft:sheep_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:sheep,"
+  },
+  {
+    "pc_item": "minecraft:cow_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:cow,"
+  },
+  {
+    "pc_item": "minecraft:mooshroom_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:mooshroom,"
+  },
+  {
+    "pc_item": "minecraft:chicken_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:chicken,"
+  },
+  {
+    "pc_item": "minecraft:rabbit_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:rabbit,"
+  },
+  {
+    "pc_item": "minecraft:squid_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:squid,"
+  },
+  {
+    "pc_item": "minecraft:zombie_villager_spawn_egg",
+    "console_item": "minecraft:spawn_egg",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: Compound_Tag: EntityTag, Inside: String_Tag: id: minecraft:zombie_villager,"
+  },
+  {
+    "pc_item": "minecraft:oak_boat",
+    "console_item": "minecraft:boat",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:note_block",
+    "console_item": "minecraft:noteblock",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:cooked_cod",
+    "console_item": "minecraft:cooked_fish",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:cod",
+    "console_item": "minecraft:fish",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:cooked_salmon",
+    "console_item": "minecraft:cooked_fish",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:salmon",
+    "console_item": "minecraft:fish",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:tropical_fish",
+    "console_item": "minecraft:fish",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:pufferfish",
+    "console_item": "minecraft:fish",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:cobweb",
+    "console_item": "minecraft:web",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:oak_sign",
+    "console_item": "minecraft:sign",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:cobblestone_wall",
+    "console_item": "minecraft:cobblestone_wall",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:mossy_cobblestone_wall",
+    "console_item": "minecraft:cobblestone_wall",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:black_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 15,"
+  },
+  {
+    "pc_item": "minecraft:blue_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 11,"
+  },
+  {
+    "pc_item": "minecraft:light_blue_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:cyan_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 9,"
+  },
+  {
+    "pc_item": "minecraft:green_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 13,"
+  },
+  {
+    "pc_item": "minecraft:lime_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:pink_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 6,"
+  },
+  {
+    "pc_item": "minecraft:magenta_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:purple_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 10,"
+  },
+  {
+    "pc_item": "minecraft:red_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 14,"
+  },
+  {
+    "pc_item": "minecraft:skeleton_skull",
+    "console_item": "minecraft:skull",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:wither_skeleton_skull",
+    "console_item": "minecraft:skull",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:zombie_head",
+    "console_item": "minecraft:skull",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:player_head",
+    "console_item": "minecraft:skull",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:creeper_head",
+    "console_item": "minecraft:skull",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:dragon_head",
+    "console_item": "minecraft:skull",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:brown_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 12,"
+  },
+  {
+    "pc_item": "minecraft:orange_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:yellow_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:white_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:light_gray_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 8,"
+  },
+  {
+    "pc_item": "minecraft:gray_concrete",
+    "console_item": "minecraft:concrete",
+    "console_data": "Damage, 7,"
+  },
+  {
+    "pc_item": "minecraft:black_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 15,"
+  },
+  {
+    "pc_item": "minecraft:blue_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 11,"
+  },
+  {
+    "pc_item": "minecraft:light_blue_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:cyan_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 9,"
+  },
+  {
+    "pc_item": "minecraft:green_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 13,"
+  },
+  {
+    "pc_item": "minecraft:lime_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:pink_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 6,"
+  },
+  {
+    "pc_item": "minecraft:magenta_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:purple_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 10,"
+  },
+  {
+    "pc_item": "minecraft:red_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 14,"
+  },
+  {
+    "pc_item": "minecraft:brown_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 12,"
+  },
+  {
+    "pc_item": "minecraft:orange_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:yellow_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:white_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:light_gray_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 8,"
+  },
+  {
+    "pc_item": "minecraft:gray_concrete_powder",
+    "console_item": "minecraft:concrete_powder",
+    "console_data": "Damage, 7,"
+  },
+  {
+    "pc_item": "minecraft:light_gray_glazed_terracotta",
+    "console_item": "minecraft:silver_glazed_terracotta",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:grass_block",
+    "console_item": "minecraft:grass",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:dirt_path",
+    "console_item": "minecraft:grass_path",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:cocoa",
+    "console_item": "minecraft:cocoa",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:silver_glazed_terracotta",
+    "console_item": "minecraft:silver_glazed_terracotta",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:lily_pad",
+    "console_item": "minecraft:waterlily",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:fern",
+    "console_item": "minecraft:tallgrass",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:dead_bush",
+    "console_item": "minecraft:deadbush",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:dandelion",
+    "console_item": "minecraft:yellow_flower",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:poppy",
+    "console_item": "minecraft:red_flower",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:blue_orchid",
+    "console_item": "minecraft:red_flower",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:allium",
+    "console_item": "minecraft:red_flower",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:azure_bluet",
+    "console_item": "minecraft:red_flower",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:red_tulip",
+    "console_item": "minecraft:red_flower",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:orange_tulip",
+    "console_item": "minecraft:red_flower",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:white_tulip",
+    "console_item": "minecraft:red_flower",
+    "console_data": "Damage, 6,"
+  },
+  {
+    "pc_item": "minecraft:pink_tulip",
+    "console_item": "minecraft:red_flower",
+    "console_data": "Damage, 7,"
+  },
+  {
+    "pc_item": "minecraft:oxeye_daisy",
+    "console_item": "minecraft:red_flower",
+    "console_data": "Damage, 8,"
+  },
+  {
+    "pc_item": "minecraft:sunflower",
+    "console_item": "minecraft:double_plant",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:lilac",
+    "console_item": "minecraft:double_plant",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:dead_bush",
+    "console_item": "minecraft:tallgrass",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:grass",
+    "console_item": "minecraft:tallgrass",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:large_fern",
+    "console_item": "minecraft:double_plant",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:rose_bush",
+    "console_item": "minecraft:double_plant",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:peony",
+    "console_item": "minecraft:double_plant",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:tall_grass",
+    "console_item": "minecraft:double_plant",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:acacia_leaves",
+    "console_item": "minecraft:leaves2",
+    "console_data": "Damage, 8,"
+  },
+  {
+    "pc_item": "minecraft:dark_oak_leaves",
+    "console_item": "minecraft:leaves2",
+    "console_data": "Damage, 9,"
+  },
+  {
+    "pc_item": "minecraft:cut_red_sandstone",
+    "console_item": "minecraft:red_sandstone",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:chiseled_red_sandstone",
+    "console_item": "minecraft:red_sandstone",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:granite",
+    "console_item": "minecraft:stone",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:polished_granite",
+    "console_item": "minecraft:stone",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:andesite",
+    "console_item": "minecraft:stone",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:polished_andesite",
+    "console_item": "minecraft:stone",
+    "console_data": "Damage, 6,"
+  },
+  {
+    "pc_item": "minecraft:diorite",
+    "console_item": "minecraft:stone",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:polished_diorite",
+    "console_item": "minecraft:stone",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:mossy_stone_bricks",
+    "console_item": "minecraft:stonebrick",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:cracked_stone_bricks",
+    "console_item": "minecraft:stonebrick",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:chiseled_stone_bricks",
+    "console_item": "minecraft:stonebrick",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:infested_stone",
+    "console_item": "minecraft:monster_egg",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:infested_cobblestone",
+    "console_item": "minecraft:monster_egg",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:infested_stone_bricks",
+    "console_item": "minecraft:monster_egg",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:infested_mossy_stone_bricks",
+    "console_item": "minecraft:monster_egg",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:infested_cracked_stone_bricks",
+    "console_item": "minecraft:monster_egg",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:infested_chiseled_stone_bricks",
+    "console_item": "minecraft:monster_egg",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:coarse_dirt",
+    "console_item": "minecraft:dirt",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:podzol",
+    "console_item": "minecraft:dirt",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:red_nether_bricks",
+    "console_item": "minecraft:red_nether_brick",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:end_stone_bricks",
+    "console_item": "minecraft:end_bricks",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:smooth_stone_slab",
+    "console_item": "minecraft:stone_slab",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:sandstone_slab",
+    "console_item": "minecraft:stone_slab",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:red_sandstone_slab",
+    "console_item": "minecraft:stone_slab2",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:oak_slab",
+    "console_item": "minecraft:wooden_slab",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:spruce_slab",
+    "console_item": "minecraft:wooden_slab",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:birch_slab",
+    "console_item": "minecraft:wooden_slab",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:jungle_slab",
+    "console_item": "minecraft:wooden_slab",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:acacia_slab",
+    "console_item": "minecraft:wooden_slab",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:dark_oak_slab",
+    "console_item": "minecraft:wooden_slab",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:cobblestone_slab",
+    "console_item": "minecraft:stone_slab",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:brick_slab",
+    "console_item": "minecraft:stone_slab",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:stone_brick_slab",
+    "console_item": "minecraft:stone_slab",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:nether_brick_slab",
+    "console_item": "minecraft:stone_slab",
+    "console_data": "Damage, 6,"
+  },
+  {
+    "pc_item": "minecraft:quartz_slab",
+    "console_item": "minecraft:stone_slab",
+    "console_data": "Damage, 7,"
+  },
+  {
+    "pc_item": "minecraft:lime_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:pink_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 6,"
+  },
+  {
+    "pc_item": "minecraft:magenta_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:purple_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 10,"
+  },
+  {
+    "pc_item": "minecraft:red_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 14,"
+  },
+  {
+    "pc_item": "minecraft:brown_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 12,"
+  },
+  {
+    "pc_item": "minecraft:orange_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:yellow_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:white_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:light_gray_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 8,"
+  },
+  {
+    "pc_item": "minecraft:gray_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 7,"
+  },
+  {
+    "pc_item": "minecraft:wet_sponge",
+    "console_item": "minecraft:sponge",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:melon",
+    "console_item": "minecraft:melon_block",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:jack_o_lantern",
+    "console_item": "minecraft:lit_pumpkin",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:oak_sapling",
+    "console_item": "minecraft:sapling",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:spruce_sapling",
+    "console_item": "minecraft:sapling",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:birch_sapling",
+    "console_item": "minecraft:sapling",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:jungle_sapling",
+    "console_item": "minecraft:sapling",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:acacia_sapling",
+    "console_item": "minecraft:sapling",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:dark_oak_sapling",
+    "console_item": "minecraft:sapling",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:oak_leaves",
+    "console_item": "minecraft:leaves",
+    "console_data": "Damage, 8,"
+  },
+  {
+    "pc_item": "minecraft:spruce_leaves",
+    "console_item": "minecraft:leaves",
+    "console_data": "Damage, 9,"
+  },
+  {
+    "pc_item": "minecraft:birch_leaves",
+    "console_item": "minecraft:leaves",
+    "console_data": "Damage, 10,"
+  },
+  {
+    "pc_item": "minecraft:jungle_leaves",
+    "console_item": "minecraft:leaves",
+    "console_data": "Damage, 11,"
+  },
+  {
+    "pc_item": "minecraft:black_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 15,"
+  },
+  {
+    "pc_item": "minecraft:blue_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 11,"
+  },
+  {
+    "pc_item": "minecraft:light_blue_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:cyan_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 9,"
+  },
+  {
+    "pc_item": "minecraft:green_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 13,"
+  },
+  {
+    "pc_item": "minecraft:lime_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:pink_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 6,"
+  },
+  {
+    "pc_item": "minecraft:magenta_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:purple_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 10,"
+  },
+  {
+    "pc_item": "minecraft:red_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 14,"
+  },
+  {
+    "pc_item": "minecraft:brown_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 12,"
+  },
+  {
+    "pc_item": "minecraft:orange_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:yellow_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:white_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:light_gray_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 8,"
+  },
+  {
+    "pc_item": "minecraft:gray_wool",
+    "console_item": "minecraft:wool",
+    "console_data": "Damage, 7,"
+  },
+  {
+    "pc_item": "minecraft:black_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 15,"
+  },
+  {
+    "pc_item": "minecraft:blue_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 11,"
+  },
+  {
+    "pc_item": "minecraft:light_blue_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:cyan_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 9,"
+  },
+  {
+    "pc_item": "minecraft:green_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 13,"
+  },
+  {
+    "pc_item": "minecraft:lime_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:pink_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 6,"
+  },
+  {
+    "pc_item": "minecraft:magenta_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:purple_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 10,"
+  },
+  {
+    "pc_item": "minecraft:red_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 14,"
+  },
+  {
+    "pc_item": "minecraft:brown_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 12,"
+  },
+  {
+    "pc_item": "minecraft:red_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:orange_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 14,"
+  },
+  {
+    "pc_item": "minecraft:yellow_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 11,"
+  },
+  {
+    "pc_item": "minecraft:lime_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 10,"
+  },
+  {
+    "pc_item": "minecraft:light_blue_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 12,"
+  },
+  {
+    "pc_item": "minecraft:cyan_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 6,"
+  },
+  {
+    "pc_item": "minecraft:blue_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:purple_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:magenta_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 13,"
+  },
+  {
+    "pc_item": "minecraft:pink_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 9,"
+  },
+  {
+    "pc_item": "minecraft:white_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 15,"
+  },
+  {
+    "pc_item": "minecraft:gray_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 8,"
+  },
+  {
+    "pc_item": "minecraft:light_gray_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 7,"
+  },
+  {
+    "pc_item": "minecraft:black_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:green_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:brown_banner",
+    "console_item": "minecraft:banner",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:black_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 15,"
+  },
+  {
+    "pc_item": "minecraft:blue_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 11,"
+  },
+  {
+    "pc_item": "minecraft:light_blue_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:cyan_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 9,"
+  },
+  {
+    "pc_item": "minecraft:green_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 13,"
+  },
+  {
+    "pc_item": "minecraft:lime_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:pink_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 6,"
+  },
+  {
+    "pc_item": "minecraft:magenta_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:purple_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 10,"
+  },
+  {
+    "pc_item": "minecraft:red_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 14,"
+  },
+  {
+    "pc_item": "minecraft:brown_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 12,"
+  },
+  {
+    "pc_item": "minecraft:orange_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:yellow_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:white_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:light_gray_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 8,"
+  },
+  {
+    "pc_item": "minecraft:gray_bed",
+    "console_item": "minecraft:bed",
+    "console_data": "Damage, 7,"
+  },
+  {
+    "pc_item": "minecraft:orange_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:yellow_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:white_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:light_gray_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 8,"
+  },
+  {
+    "pc_item": "minecraft:gray_carpet",
+    "console_item": "minecraft:carpet",
+    "console_data": "Damage, 7,"
+  },
+  {
+    "pc_item": "minecraft:black_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 15,"
+  },
+  {
+    "pc_item": "minecraft:blue_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 11,"
+  },
+  {
+    "pc_item": "minecraft:light_blue_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:cyan_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 9,"
+  },
+  {
+    "pc_item": "minecraft:green_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 13,"
+  },
+  {
+    "pc_item": "minecraft:lime_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:pink_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 6,"
+  },
+  {
+    "pc_item": "minecraft:magenta_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:purple_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 10,"
+  },
+  {
+    "pc_item": "minecraft:red_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 14,"
+  },
+  {
+    "pc_item": "minecraft:brown_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 12,"
+  },
+  {
+    "pc_item": "minecraft:orange_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:yellow_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:white_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:light_gray_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 8,"
+  },
+  {
+    "pc_item": "minecraft:gray_stained_glass",
+    "console_item": "minecraft:stained_glass",
+    "console_data": "Damage, 7,"
+  },
+  {
+    "pc_item": "minecraft:black_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 15,"
+  },
+  {
+    "pc_item": "minecraft:blue_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 11,"
+  },
+  {
+    "pc_item": "minecraft:light_blue_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:cyan_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 9,"
+  },
+  {
+    "pc_item": "minecraft:green_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 13,"
+  },
+  {
+    "pc_item": "minecraft:lime_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:pink_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 6,"
+  },
+  {
+    "pc_item": "minecraft:magenta_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:purple_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 10,"
+  },
+  {
+    "pc_item": "minecraft:red_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 14,"
+  },
+  {
+    "pc_item": "minecraft:brown_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 12,"
+  },
+  {
+    "pc_item": "minecraft:orange_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:yellow_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:white_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:light_gray_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 8,"
+  },
+  {
+    "pc_item": "minecraft:gray_stained_glass_pane",
+    "console_item": "minecraft:stained_glass_pane",
+    "console_data": "Damage, 7,"
+  },
+  {
+    "pc_item": "minecraft:light_gray_shulker_box",
+    "console_item": "minecraft:silver_shulker_box",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:seagrass",
+    "console_item": "minecraft:sea_grass",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:tube_coral",
+    "console_item": "minecraft:coral",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:brain_coral",
+    "console_item": "minecraft:coral",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:bubble_coral",
+    "console_item": "minecraft:coral",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:fire_coral",
+    "console_item": "minecraft:coral",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:horn_coral",
+    "console_item": "minecraft:coral",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:tube_coral_fan",
+    "console_item": "minecraft:coral_fan",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:brain_coral_fan",
+    "console_item": "minecraft:coral_fan",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:bubble_coral_fan",
+    "console_item": "minecraft:coral_fan",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:fire_coral_fan",
+    "console_item": "minecraft:coral_fan",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:horn_coral_fan",
+    "console_item": "minecraft:coral_fan",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:mushroom_stem",
+    "console_item": "minecraft:brown_mushroom_block",
+    "console_data": "Damage, 10,"
+  },
+  {
+    "pc_item": "minecraft:oak_button",
+    "console_item": "minecraft:wooden_button",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:oak_pressure_plate",
+    "console_item": "minecraft:wooden_pressure_plate",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:redstone_wire",
+    "console_item": "minecraft:redstone_wire",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:redstone_torch",
+    "console_item": "minecraft:redstone_torch",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:redstone_ore",
+    "console_item": "minecraft:redstone_ore",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:redstone_lamp",
+    "console_item": "minecraft:redstone_lamp",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:ink_sac",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:lapis_lazuli",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:light_blue_dye",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 12,"
+  },
+  {
+    "pc_item": "minecraft:cyan_dye",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 6,"
+  },
+  {
+    "pc_item": "minecraft:green_dye",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:lime_dye",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 10,"
+  },
+  {
+    "pc_item": "minecraft:pink_dye",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 9,"
+  },
+  {
+    "pc_item": "minecraft:magenta_dye",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 13,"
+  },
+  {
+    "pc_item": "minecraft:purple_dye",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:red_dye",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:cocoa_beans",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:orange_dye",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 14,"
+  },
+  {
+    "pc_item": "minecraft:yellow_dye",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 11,"
+  },
+  {
+    "pc_item": "minecraft:bone_meal",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 15,"
+  },
+  {
+    "pc_item": "minecraft:charcoal",
+    "console_item": "minecraft:coal",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:sugar_cane",
+    "console_item": "minecraft:reeds",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:glistering_melon_slice",
+    "console_item": "minecraft:speckled_melon",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:enchanted_golden_apple",
+    "console_item": "minecraft:golden_apple",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:melon_slice",
+    "console_item": "minecraft:melon",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:light_gray_dye",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 7,"
+  },
+  {
+    "pc_item": "minecraft:gray_dye",
+    "console_item": "minecraft:dye",
+    "console_data": "Damage, 8,"
+  },
+  {
+    "pc_item": "minecraft:nautilus_shell",
+    "console_item": "minecraft:nautilus",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:heart_of_the_sea",
+    "console_item": "minecraft:nautilus_core",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:dead_tube_coral_fan",
+    "console_item": "minecraft:coral_fan_dead",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:dead_brain_coral_fan",
+    "console_item": "minecraft:coral_fan_dead",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:dead_bubble_coral_fan",
+    "console_item": "minecraft:coral_fan_dead",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:dead_fire_coral_fan",
+    "console_item": "minecraft:coral_fan_dead",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:dead_horn_coral_fan",
+    "console_item": "minecraft:coral_fan_dead",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:tube_coral_block",
+    "console_item": "minecraft:coral_block",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:brain_coral_block",
+    "console_item": "minecraft:coral_block",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:bubble_coral_block",
+    "console_item": "minecraft:coral_block",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:fire_coral_block",
+    "console_item": "minecraft:coral_block",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:horn_coral_block",
+    "console_item": "minecraft:coral_block",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:dead_tube_coral_block",
+    "console_item": "minecraft:coral_block",
+    "console_data": "Damage, 8,"
+  },
+  {
+    "pc_item": "minecraft:dead_brain_coral_block",
+    "console_item": "minecraft:coral_block",
+    "console_data": "Damage, 9,"
+  },
+  {
+    "pc_item": "minecraft:dead_bubble_coral_block",
+    "console_item": "minecraft:coral_block",
+    "console_data": "Damage, 10,"
+  },
+  {
+    "pc_item": "minecraft:dead_fire_coral_block",
+    "console_item": "minecraft:coral_block",
+    "console_data": "Damage, 11,"
+  },
+  {
+    "pc_item": "minecraft:dead_horn_coral_block",
+    "console_item": "minecraft:coral_block",
+    "console_data": "Damage, 12,"
+  },
+  {
+    "pc_item": "minecraft:powered_rail",
+    "console_item": "minecraft:golden_rail",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:popped_chorus_fruit",
+    "console_item": "minecraft:chorus_fruit_popped",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:scute",
+    "console_item": "minecraft:turtle_shell_piece",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:nether_bricks",
+    "console_item": "minecraft:nether_brick",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:chiseled_quartz_block",
+    "console_item": "minecraft:quartz_block",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:quartz_pillar",
+    "console_item": "minecraft:quartz_block",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:bricks",
+    "console_item": "minecraft:brick_block",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:magma_block",
+    "console_item": "minecraft:magma",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:prismarine_bricks",
+    "console_item": "minecraft:prismarine",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:dark_prismarine",
+    "console_item": "minecraft:prismarine",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:terracotta",
+    "console_item": "minecraft:hardened_clay",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:black_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 15,"
+  },
+  {
+    "pc_item": "minecraft:blue_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 11,"
+  },
+  {
+    "pc_item": "minecraft:light_blue_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:cyan_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 9,"
+  },
+  {
+    "pc_item": "minecraft:green_terracotta",
+    "console_item": "minecraft:stained_hardened_clay",
+    "console_data": "Damage, 13,"
+  },
+  {
+    "pc_item": "minecraft:oak_wood",
+    "console_item": "minecraft:log",
+    "console_data": "Damage, 12,"
+  },
+  {
+    "pc_item": "minecraft:spruce_wood",
+    "console_item": "minecraft:log",
+    "console_data": "Damage, 13,"
+  },
+  {
+    "pc_item": "minecraft:birch_wood",
+    "console_item": "minecraft:log",
+    "console_data": "Damage, 14,"
+  },
+  {
+    "pc_item": "minecraft:jungle_wood",
+    "console_item": "minecraft:log",
+    "console_data": "Damage, 15,"
+  },
+  {
+    "pc_item": "minecraft:acacia_wood",
+    "console_item": "minecraft:log2",
+    "console_data": "Damage, 12,"
+  },
+  {
+    "pc_item": "minecraft:dark_oak_wood",
+    "console_item": "minecraft:log2",
+    "console_data": "Damage, 13,"
+  },
+  {
+    "pc_item": "minecraft:oak_door",
+    "console_item": "minecraft:wooden_door",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:oak_fence_gate",
+    "console_item": "minecraft:fence_gate",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:cobblestone_stairs",
+    "console_item": "minecraft:stone_stairs",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:prismarine_brick_slab",
+    "console_item": "minecraft:prismarine_slab",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:dark_prismarine_slab",
+    "console_item": "minecraft:prismarine_slab",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:slime_block",
+    "console_item": "minecraft:slime",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:oak_trapdoor",
+    "console_item": "minecraft:trapdoor",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:snow_block",
+    "console_item": "minecraft:snow",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:oak_fence",
+    "console_item": "minecraft:fence",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:stone_bricks",
+    "console_item": "minecraft:stonebrick",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:chiseled_sandstone",
+    "console_item": "minecraft:sandstone",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:red_sand",
+    "console_item": "minecraft:sandstone",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:command_block",
+    "console_item": "minecraft:command_block",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:repeating_command_block",
+    "console_item": "minecraft:repeating_command_block",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:chain_command_block",
+    "console_item": "minecraft:chain_command_block",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:command_block_minecart",
+    "console_item": "minecraft:command_block_minecart",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:stripped_oak_log",
+    "console_item": "minecraft:stripped_log_oak",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:stripped_spruce_log",
+    "console_item": "minecraft:stripped_log_spruce",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:stripped_birch_log",
+    "console_item": "minecraft:stripped_log_birch",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:stripped_jungle_log",
+    "console_item": "minecraft:stripped_log_jungle",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:stripped_acacia_log",
+    "console_item": "minecraft:stripped_log_acacia",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:stripped_dark_oak_log",
+    "console_item": "minecraft:stripped_log_dark_oak",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:dark_oak_fence",
+    "console_item": "minecraft:dark_oak_fence",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:dark_oak_stairs",
+    "console_item": "minecraft:dark_oak_stairs",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:dark_prismarine_stairs",
+    "console_item": "minecraft:prismarine_bricks_stairs",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:spruce_fence_gate",
+    "console_item": "minecraft:fence_gate",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:dark_oak_fence_gate",
+    "console_item": "minecraft:dark_oak_fence_gate",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:water",
+    "console_item": "minecraft:water",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:lava",
+    "console_item": "minecraft:lava",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:carrots",
+    "console_item": "minecraft:carrots",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:potatoes",
+    "console_item": "minecraft:potatoes",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:beetroots",
+    "console_item": "minecraft:beetroots",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:fish_bucket",
+    "console_item": "minecraft:fish_bucket",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:puffer_fish_bucket",
+    "console_item": "minecraft:puffer_bucket",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:tropical_fish_bucket",
+    "console_item": "minecraft:tropical_bucket",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:spectral_arrow",
+    "console_item": "minecraft:spectral_arrow",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:double_wooden_slab",
+    "console_item": "minecraft:double_wooden_slab",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "pc_item": "minecraft:double_wooden_slab",
+    "console_item": "minecraft:double_wooden_slab",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:double_wooden_slab",
+    "console_item": "minecraft:double_wooden_slab",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:double_wooden_slab",
+    "console_item": "minecraft:double_wooden_slab",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:double_stone_slab",
+    "console_item": "minecraft:double_stone_slab",
+    "console_data": "Damage, 6,"
+  },
+  {
+    "pc_item": "minecraft:double_stone_slab",
+    "console_item": "minecraft:double_stone_slab",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:double_wooden_slab",
+    "console_item": "minecraft:double_wooden_slab",
+    "console_data": "Damage, 4,"
+  },
+  {
+    "pc_item": "minecraft:double_wooden_slab",
+    "console_item": "minecraft:double_wooden_slab",
+    "console_data": "Damage, 5,"
+  },
+  {
+    "pc_item": "minecraft:double_stone_slab",
+    "console_item": "minecraft:double_stone_slab",
+    "console_data": "Damage, 7,"
+  },
+  {
+    "pc_item": "minecraft:double_stone_slab",
+    "console_item": "minecraft:double_stone_slab",
+    "console_data": "Damage, 0,"
+  },
+  {
+    "pc_item": "minecraft:double_stone_slab",
+    "console_item": "minecraft:double_stone_slab",
+    "console_data": "Damage, 1,"
+  },
+  {
+    "pc_item": "minecraft:double_stone_slab",
+    "console_item": "minecraft:double_stone_slab",
+    "console_data": "Damage, 2,"
+  },
+  {
+    "pc_item": "minecraft:double_stone_slab",
+    "console_item": "minecraft:double_stone_slab",
+    "console_data": "Damage, 3,"
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 2, String_Tag: id: minecraft:punch,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 49, Short_Tag: lvl: 2,"
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 1, String_Tag: id: minecraft:flame,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 50, Short_Tag: lvl: 1,"
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 1, String_Tag: id: minecraft:infinity,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 51, Short_Tag: lvl: 1,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 3, String_Tag: id: minecraft:luck_of_the_sea,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 61, Short_Tag: lvl: 3,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 3, String_Tag: id: minecraft:lure,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 62, Short_Tag: lvl: 3,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 1, String_Tag: id: minecraft:mending,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 70, Short_Tag: lvl: 1,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 1, String_Tag: id: minecraft:vanishing_curse,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 71, Short_Tag: lvl: 1,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 5, String_Tag: id: minecraft:impaling,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 80, Short_Tag: lvl: 5,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 3, String_Tag: id: minecraft:riptide,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 81, Short_Tag: lvl: 3,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 3, String_Tag: id: minecraft:loyalty,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 82, Short_Tag: lvl: 3,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 1, String_Tag: id: minecraft:channeling,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 83, Short_Tag: lvl: 1,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 4, String_Tag: id: minecraft:protection,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 0, Short_Tag: lvl: 4,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 4, String_Tag: id: minecraft:fire_protection,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 1, Short_Tag: lvl: 4,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 4, String_Tag: id: minecraft:feather_falling,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 2, Short_Tag: lvl: 4,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 4, String_Tag: id: minecraft:blast_protection,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 3, Short_Tag: lvl: 4,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 4, String_Tag: id: minecraft:projectile_protection,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 4, Short_Tag: lvl: 4,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 3, String_Tag: id: minecraft:respiration,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 5, Short_Tag: lvl: 3,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 1, String_Tag: id: minecraft:aqua_affinity,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 6, Short_Tag: lvl: 1,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 3, String_Tag: id: minecraft:thorns,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 7, Short_Tag: lvl: 3,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 3, String_Tag: id: minecraft:depth_strider,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 8, Short_Tag: lvl: 3,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 2, String_Tag: id: minecraft:frost_walker,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 9, Short_Tag: lvl: 2,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 1, String_Tag: id: minecraft:binding_curse,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 10, Short_Tag: lvl: 1,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 5, String_Tag: id: minecraft:sharpness,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 16, Short_Tag: lvl: 5,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 5, String_Tag: id: minecraft:smite,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 17, Short_Tag: lvl: 5,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 5, String_Tag: id: minecraft:bane_of_arthropods,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 18, Short_Tag: lvl: 5,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 2, String_Tag: id: minecraft:knockback,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 19, Short_Tag: lvl: 2,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 2, String_Tag: id: minecraft:fire_aspect,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 20, Short_Tag: lvl: 2,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 3, String_Tag: id: minecraft:looting,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 21, Short_Tag: lvl: 3,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 5, String_Tag: id: minecraft:efficiency,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 32, Short_Tag: lvl: 5,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 1, String_Tag: id: minecraft:silk_touch,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 33, Short_Tag: lvl: 1,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 3, String_Tag: id: minecraft:unbreaking,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 34, Short_Tag: lvl: 3,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 3, String_Tag: id: minecraft:fortune,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 35, Short_Tag: lvl: 3,"
+
+  },
+  {
+    "java_item": "minecraft:enchanted_book",
+    "java_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: lvl: 5, String_Tag: id: minecraft:power,",
+    "console_data": "Damage, 0, Compound_Tag: tag, Inside: List_Tag, Name StoredEnchantments, Compound_Tag: Inside: Short_Tag: id: 48, Short_Tag: lvl: 5,"
+  }
+]

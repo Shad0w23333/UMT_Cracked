@@ -1,0 +1,8125 @@
+[[
+  {
+    "image": "",
+    "text_type": "minecraft:bedrock",
+    "type": "7000"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dirt",
+    "type": "3000"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:air",
+    "type": "0000"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:coal_block",
+    "type": "D00A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:gold_block",
+    "type": "9002"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_block",
+    "type": "A002"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:smooth_stone_slab",
+    "type": "C002"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:grass_block",
+    "type": "2000"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chest",
+    "properties": "facing, north, type, left",
+    "wasd_data": "true",
+    "type": "6203"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chest",
+    "properties": "facing, north, type, right",
+    "wasd_data": "true",
+    "type": "6203"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:redstone_block",
+    "type": "8009"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chest",
+    "properties": "facing, east, type, left",
+    "wasd_data": "true",
+    "type": "6503"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chest",
+    "properties": "facing, east, type, right",
+    "wasd_data": "true",
+    "type": "6503"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chest",
+    "properties": "facing, east",
+    "wasd_data": "true",
+    "type": "6503"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dried_kelp_block",
+    "type": "D010"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chest",
+    "properties": "facing, west, type, right",
+    "wasd_data": "true",
+    "type": "6403"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chest",
+    "properties": "facing, west, type, left",
+    "wasd_data": "true",
+    "type": "6403"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chest",
+    "properties": "facing, west",
+    "wasd_data": "true",
+    "type": "6403"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chest",
+    "properties": "facing, north",
+    "wasd_data": "true",
+    "type": "6203"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, top, open, true, facing, north",
+    "type": "2C11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, top, open, true, facing, east",
+    "type": "2F11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, top, open, true, facing, west",
+    "type": "2E11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, bottom, open, false, facing, south",
+    "type": "3111"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, bottom, open, false, facing, north",
+    "type": "3011"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, bottom, open, false, facing, east",
+    "type": "3311"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, bottom, open, false, facing, west",
+    "type": "3211"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, top, open, false, facing, south",
+    "type": "3911"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, top, open, false, facing, north",
+    "type": "3811"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, top, open, false, facing, east",
+    "type": "3B11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, top, open, false, facing, west",
+    "type": "3A11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, bottom, open, true, facing, south",
+    "type": "3511"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, bottom, open, true, facing, north",
+    "type": "3411"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, bottom, open, true, facing, east",
+    "type": "3711"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, bottom, open, true, facing, west",
+    "type": "3611"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, top, open, true, facing, north",
+    "type": "0C06"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, top, open, true, facing, east",
+    "type": "0F06"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, top, open, true, facing, west",
+    "type": "0E06"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, bottom, open, false, facing, south",
+    "type": "2111"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, bottom, open, false, facing, north",
+    "type": "2011"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, bottom, open, false, facing, east",
+    "type": "2311"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, bottom, open, false, facing, west",
+    "type": "2211"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, top, open, false, facing, south",
+    "type": "2911"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, top, open, false, facing, north",
+    "type": "2811"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, top, open, false, facing, east",
+    "type": "2B11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, top, open, false, facing, west",
+    "type": "2A11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, bottom, open, true, facing, south",
+    "type": "2511"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, bottom, open, true, facing, north",
+    "type": "2411"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, bottom, open, true, facing, east",
+    "type": "2711"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, bottom, open, true, facing, west",
+    "type": "2611"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_trapdoor",
+    "properties": "half, top, open, true, facing, south",
+    "type": "2D11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purpur_pillar",
+    "properties": "axis, z",
+    "type": "A80C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purpur_pillar",
+    "properties": "axis, x",
+    "type": "A40C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purpur_pillar",
+    "properties": "axis, y",
+    "type": "A00C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, bottom, open, false, facing, south",
+    "type": "0106"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, bottom, open, false, facing, north",
+    "type": "0006"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, bottom, open, false, facing, east",
+    "type": "0306"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, bottom, open, false, facing, west",
+    "type": "0206"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, top, open, false, facing, south",
+    "type": "0906"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, top, open, false, facing, north",
+    "type": "0806"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, top, open, false, facing, east",
+    "type": "0906"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, top, open, false, facing, west",
+    "type": "0A06"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, bottom, open, true, facing, south",
+    "type": "0506"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, bottom, open, true, facing, north",
+    "type": "0406"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, bottom, open, true, facing, east",
+    "type": "0706"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, bottom, open, true, facing, west",
+    "type": "0606"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_trapdoor",
+    "properties": "half, top, open, true, facing, south",
+    "type": "0D06"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:infested_stone_bricks",
+    "type": "1206"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:infested_mossy_stone_bricks",
+    "type": "1306"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:infested_cracked_stone_bricks",
+    "type": "1406"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:infested_chiseled_stone_bricks",
+    "type": "1506"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:mycelium",
+    "type": "E006"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:coarse_dirt",
+    "type": "3100"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:podzol",
+    "properties": "snowy, false",
+    "type": "3200"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_bricks",
+    "type": "0007"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_nether_bricks",
+    "type": "700D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_stone",
+    "type": "9007"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_stone_bricks",
+    "type": "E00C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chiseled_quartz_block",
+    "type": "B109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:quartz_pillar",
+    "properties": "axis, z",
+    "type": "B409"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:quartz_pillar",
+    "properties": "axis, x",
+    "type": "B309"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:quartz_pillar",
+    "properties": "axis, y",
+    "type": "B209"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purpur_block",
+    "type": "900C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_prismarine",
+    "type": "820A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:slime_block",
+    "type": "500A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_fence",
+    "wasd_data": "true",
+    "type": "5005"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_fence",
+    "wasd_data": "true",
+    "type": "C00B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_fence",
+    "wasd_data": "true",
+    "type": "D00B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_fence",
+    "wasd_data": "true",
+    "type": "E00B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_fence",
+    "wasd_data": "true",
+    "type": "000C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_fence",
+    "wasd_data": "true",
+    "type": "F00B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_brick_fence",
+    "wasd_data": "true",
+    "type": "1007"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_bars",
+    "wasd_data": "true",
+    "type": "5006"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_bricks",
+    "type": "2006"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:mossy_stone_bricks",
+    "type": "2106"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cracked_stone_bricks",
+    "type": "2206"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chiseled_stone_bricks",
+    "type": "2306"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:infested_stone",
+    "type": "1006"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:infested_cobblestone",
+    "type": "1106"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:gravel",
+    "type": "D000"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:bricks",
+    "type": "D002"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:mossy_cobblestone",
+    "type": "0003"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:obsidian",
+    "type": "1003"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:clay",
+    "type": "2005"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:ice",
+    "type": "F004"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:packed_ice",
+    "type": "E00A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:blue_ice",
+    "type": "1011"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:snow_block",
+    "type": "0005"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:netherrack",
+    "type": "7005"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:soul_sand",
+    "type": "8005"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:glowstone",
+    "type": "9005"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:magma_block",
+    "type": "500D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sea_lantern",
+    "type": "900A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine",
+    "type": "800A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_bricks",
+    "type": "810A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_oak_log",
+    "properties": "axis, y",
+    "type": "C012"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_spruce_log",
+    "properties": "axis, z",
+    "type": "7812"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_spruce_log",
+    "properties": "axis, x",
+    "type": "7412"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_spruce_log",
+    "properties": "axis, y",
+    "type": "7012"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_birch_log",
+    "properties": "axis, z",
+    "type": "8812"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_birch_log",
+    "properties": "axis, x",
+    "type": "8412"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_birch_log",
+    "properties": "axis, y",
+    "type": "8012"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_jungle_log",
+    "properties": "axis, z",
+    "type": "9812"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_jungle_log",
+    "properties": "axis, x",
+    "type": "9412"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_jungle_log",
+    "properties": "axis, y",
+    "type": "9012"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_acacia_log",
+    "properties": "axis, z",
+    "type": "A812"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_acacia_log",
+    "properties": "axis, x",
+    "type": "A412"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_acacia_log",
+    "properties": "axis, y",
+    "type": "A012"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_dark_oak_log",
+    "properties": "axis, z",
+    "type": "B812"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_dark_oak_log",
+    "properties": "axis, x",
+    "type": "B412"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_dark_oak_log",
+    "properties": "axis, y",
+    "type": "B012"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_log",
+    "properties": "axis, x",
+    "type": "1501"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_log",
+    "properties": "axis, y",
+    "type": "1101"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_log",
+    "properties": "axis, z",
+    "type": "1A01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_log",
+    "properties": "axis, x",
+    "type": "1601"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_log",
+    "properties": "axis, y",
+    "type": "1201"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_log",
+    "properties": "axis, z",
+    "type": "1B01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_log",
+    "properties": "axis, x",
+    "type": "1701"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_log",
+    "properties": "axis, y",
+    "type": "1301"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_log",
+    "properties": "axis, z",
+    "type": "280A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_log",
+    "properties": "axis, x",
+    "type": "240A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_log",
+    "properties": "axis, y",
+    "type": "200A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_log",
+    "properties": "axis, z",
+    "type": "290A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_log",
+    "properties": "axis, x",
+    "type": "250A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_log",
+    "properties": "axis, y",
+    "type": "210A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_oak_log",
+    "properties": "axis, z",
+    "type": "C812"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stripped_oak_log",
+    "properties": "axis, x",
+    "type": "C412"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_ore",
+    "type": "F000"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:gold_ore",
+    "type": "E000"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:emerald_ore",
+    "type": "1008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_quartz_ore",
+    "type": "9009"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_wart_block",
+    "type": "600D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_planks",
+    "type": "5000"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_planks",
+    "type": "5100"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_planks",
+    "type": "5200"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_planks",
+    "type": "5300"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_planks",
+    "type": "5400"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_planks",
+    "type": "5500"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_log",
+    "properties": "axis, z",
+    "type": "1801"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_log",
+    "properties": "axis, x",
+    "type": "1401"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_log",
+    "properties": "axis, y",
+    "type": "1001"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_log",
+    "properties": "axis, z",
+    "type": "1901"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone",
+    "type": "1000"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:grass_path",
+    "type": "000D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cobblestone",
+    "type": "4000"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sand",
+    "type": "C000"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sandstone",
+    "type": "8001"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cut_sandstone",
+    "type": "8201"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chiseled_sandstone",
+    "type": "8101"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_sand",
+    "type": "C100"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_sandstone",
+    "type": "300B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cut_red_sandstone",
+    "type": "320B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chiseled_red_sandstone",
+    "type": "310B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:granite",
+    "type": "1100"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:polished_granite",
+    "type": "1200"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:andesite",
+    "type": "1500"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:polished_andesite",
+    "type": "1600"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:diorite",
+    "type": "1300"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:polished_diorite",
+    "type": "1400"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lapis_block",
+    "type": "6001"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:diamond_block",
+    "type": "9003"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:emerald_block",
+    "type": "5008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:quartz_block",
+    "type": "B009"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:coal_ore",
+    "type": "0001"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lapis_ore",
+    "type": "5001"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:diamond_ore",
+    "type": "8003"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:redstone_ore",
+    "properties": "lit, false",
+    "type": "9004"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:redstone_ore",
+    "properties": "lit, true",
+    "type": "a004"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, lower, open, false, facing, west, hinge, right, powered, false",
+    "type": "220C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, west, open, false",
+    "type": "290C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, lower, open, false, facing, west, hinge, left, powered, false",
+    "type": "220C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, west, open, false",
+    "type": "280C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, lower, open, false, facing, east, hinge, left, powered, false",
+    "type": "200C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, east, open, false",
+    "type": "280C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, lower, open, false, facing, east, hinge, right, powered, false",
+    "type": "200C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, east, open, false",
+    "type": "290C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, lower, open, true, facing, north, hinge, left, powered, true",
+    "type": "270C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, north, open, true",
+    "type": "2A0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, lower, open, true, facing, north, hinge, right, powered, true",
+    "type": "270C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, north, open, true",
+    "type": "2B0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, lower, open, true, facing, west, hinge, right, powered, true",
+    "type": "260C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, west, open, true",
+    "type": "2B0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, lower, open, true, facing, west, hinge, left, powered, true",
+    "type": "260C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, west, open, true",
+    "type": "2A0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, lower, open, true, facing, east, hinge, left, powered, true",
+    "type": "240C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, east, open, true",
+    "type": "2A0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, lower, open, true, facing, east, hinge, right, powered, true",
+    "type": "240C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, east, open, true",
+    "type": "2B0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, lower, open, false, facing, east, hinge, left, powered, false",
+    "type": "100C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, east, open, false",
+    "type": "180C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, lower, open, false, facing, east, hinge, right, powered, false",
+    "type": "100C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, east, open, false",
+    "type": "190C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, lower, open, true, facing, north, hinge, left, powered, true",
+    "type": "170C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, north, open, true",
+    "type": "1A0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, lower, open, true, facing, north, hinge, right, powered, true",
+    "type": "170C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, north, open, true",
+    "type": "1B0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, lower, open, true, facing, west, hinge, right, powered, true",
+    "type": "160C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, west, open, true",
+    "type": "1B0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, lower, open, true, facing, west, hinge, left, powered, true",
+    "type": "160C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, west, open, true",
+    "type": "1A0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, lower, open, true, facing, east, hinge, left, powered, true",
+    "type": "140C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, east, open, true",
+    "type": "1A0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, lower, open, true, facing, east, hinge, right, powered, true",
+    "type": "140C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, east, open, true",
+    "type": "1B0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, lower, open, false, facing, north, hinge, left, powered, false",
+    "type": "230C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, north, open, false",
+    "type": "280C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, lower, open, false, facing, north, hinge, right, powered, false",
+    "type": "230C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, north, open, false",
+    "type": "290C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, lower, open, false, facing, east, hinge, right, powered, false",
+    "type": "7004"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, east, open, false",
+    "type": "7904"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, lower, open, true, facing, north, hinge, left, powered, true",
+    "type": "7704"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, north, open, true",
+    "type": "7A04"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, lower, open, true, facing, north, hinge, right, powered, true",
+    "type": "7704"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, north, open, true",
+    "type": "7B04"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, lower, open, true, facing, west, hinge, right, powered, true",
+    "type": "7604"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, west, open, true",
+    "type": "7B04"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, lower, open, true, facing, west, hinge, left, powered, true",
+    "type": "7604"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, west, open, true",
+    "type": "7A04"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, lower, open, true, facing, east, hinge, left, powered, true",
+    "type": "7404"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, east, open, true",
+    "type": "7A04"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, lower, open, true, facing, east, hinge, right, powered, true",
+    "type": "7404"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, east, open, true",
+    "type": "7B04"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, lower, open, false, facing, north, hinge, left, powered, false",
+    "type": "130C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, north, open, false",
+    "type": "180C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, lower, open, false, facing, north, hinge, right, powered, false",
+    "type": "130C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, north, open, false",
+    "type": "190C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, lower, open, false, facing, west, hinge, right, powered, false",
+    "type": "120C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, west, open, false",
+    "type": "190C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, lower, open, false, facing, west, hinge, left, powered, false",
+    "type": "120C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, west, open, false",
+    "type": "180C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, lower, open, true, facing, north, hinge, left, powered, false",
+    "type": "0704"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, north, open, true",
+    "type": "0804"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, lower, open, true, facing, north, hinge, right, powered, false",
+    "type": "0704"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, north, open, true",
+    "type": "0904"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, lower, open, true, facing, west, hinge, right, powered, false",
+    "type": "0604"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, west, open, true",
+    "type": "0904"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, lower, open, true, facing, west, hinge, left, powered, false",
+    "type": "0604"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, west, open, true",
+    "type": "0804"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, lower, open, true, facing, east, hinge, left, powered, false",
+    "type": "0404"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, east, open, true",
+    "type": "0804"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, lower, open, true, facing, east, hinge, right, powered, false",
+    "type": "0404"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, east, open, true",
+    "type": "0904"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, lower, open, false, facing, north, hinge, left, powered, false",
+    "type": "7304"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, north, open, false",
+    "type": "7804"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, lower, open, false, facing, north, hinge, right, powered, false",
+    "type": "7304"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, north, open, false",
+    "type": "7904"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, lower, open, false, facing, west, hinge, right, powered, false",
+    "type": "7204"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, west, open, false",
+    "type": "7904"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, lower, open, false, facing, west, hinge, left, powered, false",
+    "type": "7204"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, west, open, false",
+    "type": "7804"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, lower, open, false, facing, east, hinge, left, powered, false",
+    "type": "7004"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, east, open, false",
+    "type": "7804"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_fence_gate",
+    "properties": "in_wall, false, open, true, facing, north",
+    "type": "B60B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_fence_gate",
+    "properties": "in_wall, false, open, true, facing, south",
+    "type": "B40B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_fence_gate",
+    "properties": "in_wall, false, open, false, facing, north",
+    "type": "A20B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_fence_gate",
+    "properties": "in_wall, false, open, false, facing, west",
+    "type": "A10B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_fence_gate",
+    "properties": "in_wall, false, open, true, facing, west",
+    "type": "A50B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_fence_gate",
+    "properties": "in_wall, false, open, true, facing, east",
+    "type": "A70B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_fence_gate",
+    "properties": "in_wall, false, open, true, facing, north",
+    "type": "A60B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_fence_gate",
+    "properties": "in_wall, false, open, true, facing, south",
+    "type": "A40B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, lower, open, false, facing, north, hinge, left, powered, false",
+    "type": "0304"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, north, open, false",
+    "type": "0804"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, lower, open, false, facing, north, hinge, right, powered, false",
+    "type": "0304"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, north, open, false",
+    "type": "0904"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, lower, open, false, facing, west, hinge, right, powered, false",
+    "type": "0204"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, west, open, false",
+    "type": "0904"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, lower, open, false, facing, west, hinge, left, powered, false",
+    "type": "0204"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, west, open, false",
+    "type": "0804"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, lower, open, false, facing, east, hinge, left, powered, false",
+    "type": "0004"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, east, open, false",
+    "type": "0804"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, lower, open, false, facing, east, hinge, right, powered, false",
+    "type": "0004"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, east, open, false",
+    "type": "0904"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_fence_gate",
+    "properties": "in_wall, false, open, false, facing, north",
+    "type": "820B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_fence_gate",
+    "properties": "in_wall, false, open, false, facing, west",
+    "type": "810B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_fence_gate",
+    "properties": "in_wall, false, open, true, facing, west",
+    "type": "850B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_fence_gate",
+    "properties": "in_wall, false, open, true, facing, east",
+    "type": "870B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_fence_gate",
+    "properties": "in_wall, false, open, true, facing, north",
+    "type": "860B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_fence_gate",
+    "properties": "in_wall, false, open, true, facing, south",
+    "type": "840B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_fence_gate",
+    "properties": "in_wall, false, open, false, facing, north",
+    "type": "920B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_fence_gate",
+    "properties": "in_wall, false, open, false, facing, west",
+    "type": "910B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_fence_gate",
+    "properties": "in_wall, false, open, true, facing, west",
+    "type": "950B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_fence_gate",
+    "properties": "in_wall, false, open, true, facing, east",
+    "type": "970B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_fence_gate",
+    "properties": "in_wall, false, open, true, facing, north",
+    "type": "960B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_fence_gate",
+    "properties": "in_wall, false, open, true, facing, south",
+    "type": "940B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_fence_gate",
+    "properties": "in_wall, false, open, false, facing, north",
+    "type": "B20B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_fence_gate",
+    "properties": "in_wall, false, open, false, facing, west",
+    "type": "B10B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_fence_gate",
+    "properties": "in_wall, false, open, true, facing, west",
+    "type": "B50B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_fence_gate",
+    "properties": "in_wall, false, open, true, facing, east",
+    "type": "B70B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, top, open, true, facing, south",
+    "type": "7D0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, top, open, true, facing, north",
+    "type": "7C0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, top, open, true, facing, east",
+    "type": "7F0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, top, open, true, facing, west",
+    "type": "7E0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_fence_gate",
+    "properties": "in_wall, false, open, false, facing, north",
+    "type": "B206"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_fence_gate",
+    "properties": "in_wall, false, open, false, facing, west",
+    "type": "B106"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_fence_gate",
+    "properties": "in_wall, false, open, true, facing, west",
+    "type": "B506"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_fence_gate",
+    "properties": "in_wall, false, open, true, facing, east",
+    "type": "B706"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_fence_gate",
+    "properties": "in_wall, false, open, true, facing, north",
+    "type": "B606"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_fence_gate",
+    "properties": "in_wall, false, open, true, facing, south",
+    "type": "B406"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_fence_gate",
+    "properties": "in_wall, false, open, false, facing, north",
+    "type": "720B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_fence_gate",
+    "properties": "in_wall, false, open, false, facing, west",
+    "type": "710B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_fence_gate",
+    "properties": "in_wall, false, open, true, facing, west",
+    "type": "750B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_fence_gate",
+    "properties": "in_wall, false, open, true, facing, east",
+    "type": "770B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_fence_gate",
+    "properties": "in_wall, false, open, true, facing, north",
+    "type": "760B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_fence_gate",
+    "properties": "in_wall, false, open, true, facing, south",
+    "type": "740B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, top, open, true, facing, south",
+    "type": "6D11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, top, open, true, facing, north",
+    "type": "6C11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, top, open, true, facing, east",
+    "type": "6F11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, top, open, true, facing, west",
+    "type": "6E11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, bottom, open, false, facing, south",
+    "type": "710A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, bottom, open, false, facing, north",
+    "type": "700A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, bottom, open, false, facing, east",
+    "type": "730A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, bottom, open, false, facing, west",
+    "type": "720A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, top, open, false, facing, south",
+    "type": "790A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, top, open, false, facing, north",
+    "type": "780A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, top, open, false, facing, east",
+    "type": "7B0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, top, open, false, facing, west",
+    "type": "7A0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, bottom, open, true, facing, south",
+    "type": "750A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, bottom, open, true, facing, north",
+    "type": "740A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, bottom, open, true, facing, east",
+    "type": "770A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:iron_trapdoor",
+    "properties": "half, bottom, open, true, facing, west",
+    "type": "760A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, top, open, true, facing, south",
+    "type": "5D11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, top, open, true, facing, north",
+    "type": "5C11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, top, open, true, facing, east",
+    "type": "5F11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, top, open, true, facing, west",
+    "type": "5E11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, bottom, open, false, facing, south",
+    "type": "6111"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, bottom, open, false, facing, north",
+    "type": "6011"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, bottom, open, false, facing, east",
+    "type": "6311"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, bottom, open, false, facing, west",
+    "type": "6211"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, top, open, false, facing, south",
+    "type": "6911"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, top, open, false, facing, north",
+    "type": "6811"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, top, open, false, facing, east",
+    "type": "6B11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, top, open, false, facing, west",
+    "type": "6A11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, bottom, open, true, facing, south",
+    "type": "6511"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, bottom, open, true, facing, north",
+    "type": "6411"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, bottom, open, true, facing, east",
+    "type": "6711"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_trapdoor",
+    "properties": "half, bottom, open, true, facing, west",
+    "type": "6611"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, top, open, true, facing, south",
+    "type": "4D11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, top, open, true, facing, north",
+    "type": "4C11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, top, open, true, facing, east",
+    "type": "4F11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, top, open, true, facing, west",
+    "type": "4E11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, bottom, open, false, facing, south",
+    "type": "5111"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, bottom, open, false, facing, north",
+    "type": "5011"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, bottom, open, false, facing, east",
+    "type": "5311"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, bottom, open, false, facing, west",
+    "type": "5211"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, top, open, false, facing, south",
+    "type": "5911"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, top, open, false, facing, north",
+    "type": "5811"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, top, open, false, facing, east",
+    "type": "5B11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, top, open, false, facing, west",
+    "type": "5A11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, bottom, open, true, facing, south",
+    "type": "5511"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, bottom, open, true, facing, north",
+    "type": "5411"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, bottom, open, true, facing, east",
+    "type": "5711"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_trapdoor",
+    "properties": "half, bottom, open, true, facing, west",
+    "type": "5611"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, top, open, true, facing, south",
+    "type": "3D11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, top, open, true, facing, north",
+    "type": "3C11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, top, open, true, facing, east",
+    "type": "3F11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_trapdoor",
+    "properties": "half, top, open, true, facing, west",
+    "type": "3E11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, bottom, open, false, facing, south",
+    "type": "4111"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, bottom, open, false, facing, north",
+    "type": "4011"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, bottom, open, false, facing, east",
+    "type": "4311"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, bottom, open, false, facing, west",
+    "type": "4211"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, top, open, false, facing, south",
+    "type": "4911"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, top, open, false, facing, north",
+    "type": "4811"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, top, open, false, facing, east",
+    "type": "4B11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, top, open, false, facing, west",
+    "type": "4A11"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, bottom, open, true, facing, south",
+    "type": "4511"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, bottom, open, true, facing, north",
+    "type": "4411"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, bottom, open, true, facing, east",
+    "type": "4711"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_trapdoor",
+    "properties": "half, bottom, open, true, facing, west",
+    "type": "4611"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "300A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "370A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "360A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "350A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "340A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "430A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "420A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "410A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "400A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "470A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "460A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "8308"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "8208"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "8108"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "8008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "8708"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "8608"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "8508"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "8408"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "330A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "320A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "310A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "6508"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "6408"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "7308"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "7208"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "7108"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "7008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "7708"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "7608"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "7508"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "7408"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "5003"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "5703"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "5603"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "5503"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "5403"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "6308"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "6208"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "6108"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "6008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "6708"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "6608"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_slab",
+    "properties": "type, double",
+    "type": "D307"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_slab",
+    "properties": "type, double",
+    "type": "D407"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_slab",
+    "properties": "type, double",
+    "type": "D507"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cobblestone_slab",
+    "properties": "type, double",
+    "type": "B302"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brick_slab",
+    "properties": "type, double",
+    "type": "B402"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_brick_slab",
+    "properties": "type, double",
+    "type": "B502"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_brick_slab",
+    "properties": "type, double",
+    "type": "B602"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:quartz_slab",
+    "properties": "type, double",
+    "type": "B702"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purpur_slab",
+    "properties": "type, double",
+    "type": "C00C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_slab",
+    "properties": "type, double",
+    "type": "7013"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_brick_slab",
+    "properties": "type, double",
+    "type": "7113"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_prismarine_slab",
+    "properties": "type, double",
+    "type": "7213"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "5303"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "5203"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "5103"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_slab",
+    "properties": "type, top",
+    "type": "ED07"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cobblestone_slab",
+    "properties": "type, top",
+    "type": "CB02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brick_slab",
+    "properties": "type, top",
+    "type": "CC02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_brick_slab",
+    "properties": "type, top",
+    "type": "CD02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_brick_slab",
+    "properties": "type, top",
+    "type": "CE02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:quartz_slab",
+    "properties": "type, top",
+    "type": "CF02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purpur_slab",
+    "properties": "type, top",
+    "type": "D80C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_slab",
+    "properties": "type, top",
+    "type": "8813"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_brick_slab",
+    "properties": "type, top",
+    "type": "8913"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_prismarine_slab",
+    "properties": "type, top",
+    "type": "8A13"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:smooth_stone_slab",
+    "properties": "type, double",
+    "type": "B002"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sandstone_slab",
+    "properties": "type, double",
+    "type": "B102"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_sandstone_slab",
+    "properties": "type, double",
+    "type": "500B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_slab",
+    "properties": "type, double",
+    "type": "D007"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_slab",
+    "properties": "type, double",
+    "type": "D107"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_slab",
+    "properties": "type, double",
+    "type": "D207"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brick_slab",
+    "properties": "type, bottom",
+    "type": "C402"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_brick_slab",
+    "properties": "type, bottom",
+    "type": "C502"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_brick_slab",
+    "properties": "type, bottom",
+    "type": "C602"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:quartz_slab",
+    "properties": "type, bottom",
+    "type": "C702"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purpur_slab",
+    "properties": "type, bottom",
+    "type": "D00C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_slab",
+    "properties": "type, bottom",
+    "type": "8013"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_brick_slab",
+    "properties": "type, bottom",
+    "type": "8113"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_prismarine_slab",
+    "properties": "type, bottom",
+    "type": "8213"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:smooth_stone_slab",
+    "properties": "type, top",
+    "type": "C802"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sandstone_slab",
+    "properties": "type, top",
+    "type": "C902"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_sandstone_slab",
+    "properties": "type, top",
+    "type": "680B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_slab",
+    "properties": "type, top",
+    "type": "E807"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_slab",
+    "properties": "type, top",
+    "type": "E907"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_slab",
+    "properties": "type, top",
+    "type": "EA07"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_slab",
+    "properties": "type, top",
+    "type": "EB07"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_slab",
+    "properties": "type, top",
+    "type": "EC07"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, lower, open, true, facing, west, hinge, right, powered, true",
+    "type": "560C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, west, open, true",
+    "type": "5B0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, lower, open, true, facing, west, hinge, left, powered, true",
+    "type": "560C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, west, open, true",
+    "type": "5A0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, lower, open, true, facing, east, hinge, left, powered, true",
+    "type": "540C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, east, open, true",
+    "type": "5A0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, lower, open, true, facing, east, hinge, right, powered, true",
+    "type": "540C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, east, open, true",
+    "type": "5B0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:smooth_stone_slab",
+    "properties": "type, bottom",
+    "type": "C002"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sandstone_slab",
+    "properties": "type, bottom",
+    "type": "C102"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_sandstone_slab",
+    "properties": "type, bottom",
+    "type": "600B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_slab",
+    "properties": "type, bottom",
+    "type": "E007"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_slab",
+    "properties": "type, bottom",
+    "type": "E107"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_slab",
+    "properties": "type, bottom",
+    "type": "E207"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_slab",
+    "properties": "type, bottom",
+    "type": "E307"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_slab",
+    "properties": "type, bottom",
+    "type": "E407"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_slab",
+    "properties": "type, bottom",
+    "type": "E507"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cobblestone_slab",
+    "properties": "type, bottom",
+    "type": "C302"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, lower, open, true, facing, east, hinge, left, powered, true",
+    "type": "440C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, east, open, true",
+    "type": "4A0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, lower, open, true, facing, east, hinge, right, powered, true",
+    "type": "440C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, east, open, true",
+    "type": "4B0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, lower, open, false, facing, north, hinge, left, powered, false",
+    "type": "530C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, north, open, false",
+    "type": "580C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, lower, open, false, facing, north, hinge, right, powered, false",
+    "type": "530C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, north, open, false",
+    "type": "590C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, lower, open, false, facing, west, hinge, right, powered, false",
+    "type": "520C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, west, open, false",
+    "type": "590C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, lower, open, false, facing, west, hinge, left, powered, false",
+    "type": "520C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, west, open, false",
+    "type": "580C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, lower, open, false, facing, east, hinge, left, powered, false",
+    "type": "500C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, east, open, false",
+    "type": "580C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, lower, open, false, facing, east, hinge, right, powered, false",
+    "type": "500C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, east, open, false",
+    "type": "590C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, lower, open, true, facing, north, hinge, left, powered, true",
+    "type": "570C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, north, open, true",
+    "type": "5A0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, lower, open, true, facing, north, hinge, right, powered, true",
+    "type": "570C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, north, open, true",
+    "type": "5B0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, lower, open, true, facing, east, hinge, right, powered, true",
+    "type": "340C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, east, open, true",
+    "type": "3B0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, lower, open, false, facing, north, hinge, left, powered, false",
+    "type": "430C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, north, open, false",
+    "type": "480C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, lower, open, false, facing, north, hinge, right, powered, false",
+    "type": "430C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, north, open, false",
+    "type": "490C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, lower, open, false, facing, west, hinge, right, powered, false",
+    "type": "420C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, west, open, false",
+    "type": "490C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, lower, open, false, facing, west, hinge, left, powered, false",
+    "type": "420C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, west, open, false",
+    "type": "480C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, lower, open, false, facing, east, hinge, left, powered, false",
+    "type": "400C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, east, open, false",
+    "type": "480C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, lower, open, false, facing, east, hinge, right, powered, false",
+    "type": "400C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, east, open, false",
+    "type": "490C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, lower, open, true, facing, north, hinge, left, powered, true",
+    "type": "470C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, north, open, true",
+    "type": "4A0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, lower, open, true, facing, north, hinge, right, powered, true",
+    "type": "470C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, north, open, true",
+    "type": "4B0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, lower, open, true, facing, west, hinge, right, powered, true",
+    "type": "460C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, west, open, true",
+    "type": "4B0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, lower, open, true, facing, west, hinge, left, powered, true",
+    "type": "460C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, west, open, true",
+    "type": "4A0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, lower, open, false, facing, north, hinge, left, powered, false",
+    "type": "330C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, north, open, false",
+    "type": "380C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, lower, open, false, facing, north, hinge, right, powered, false",
+    "type": "330C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, north, open, false",
+    "type": "390C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, lower, open, false, facing, west, hinge, right, powered, false",
+    "type": "320C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, west, open, false",
+    "type": "390C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, lower, open, false, facing, west, hinge, left, powered, false",
+    "type": "320C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, west, open, false",
+    "type": "380C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, lower, open, false, facing, east, hinge, left, powered, false",
+    "type": "300C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, upper, hinge, left, powered, false, facing, east, open, false",
+    "type": "380C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, lower, open, false, facing, east, hinge, right, powered, false",
+    "type": "300C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, upper, hinge, right, powered, false, facing, east, open, false",
+    "type": "390C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, lower, open, true, facing, north, hinge, left, powered, true",
+    "type": "370C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, north, open, true",
+    "type": "3A0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, lower, open, true, facing, north, hinge, right, powered, true",
+    "type": "370C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, north, open, true",
+    "type": "3B0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, lower, open, true, facing, west, hinge, right, powered, true",
+    "type": "360C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, upper, hinge, right, powered, true, facing, west, open, true",
+    "type": "3B0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, lower, open, true, facing, west, hinge, left, powered, true",
+    "type": "360C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, west, open, true",
+    "type": "3A0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, lower, open, true, facing, east, hinge, left, powered, true",
+    "type": "340C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_door",
+    "properties": "half, upper, hinge, left, powered, true, facing, east, open, true",
+    "type": "3A0C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:skeleton_wall_skull",
+    "properties": "facing, south",
+    "type": "0309"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:skeleton_wall_skull",
+    "properties": "facing, north",
+    "type": "0209"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:skeleton_wall_skull",
+    "properties": "facing, east",
+    "type": "0509"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:skeleton_wall_skull",
+    "properties": "facing, west",
+    "type": "0409"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wither_skeleton_skull",
+    "properties": "rotation, 12",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wither_skeleton_skull",
+    "properties": "rotation, 10",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wither_skeleton_skull",
+    "properties": "rotation, 8",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wither_skeleton_skull",
+    "properties": "rotation, 0",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wither_skeleton_skull",
+    "properties": "rotation, 4",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wither_skeleton_skull",
+    "properties": "rotation, 7",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wither_skeleton_skull",
+    "properties": "rotation, 14",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wither_skeleton_skull",
+    "properties": "rotation, 2",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wither_skeleton_wall_skull",
+    "properties": "facing, south",
+    "type": "0309"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_terracotta",
+    "type": "FE09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brown_terracotta",
+    "type": "FC09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:orange_terracotta",
+    "type": "F109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:yellow_terracotta",
+    "type": "F409"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:white_terracotta",
+    "type": "F009"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_gray_terracotta",
+    "type": "F809"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:gray_terracotta",
+    "type": "F709"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:skeleton_skull",
+    "properties": "rotation, 8",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:skeleton_skull",
+    "properties": "rotation, 0",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:skeleton_skull",
+    "properties": "rotation, 4",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:skeleton_skull",
+    "properties": "rotation, 12",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:skeleton_skull",
+    "properties": "rotation, 10",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:skeleton_skull",
+    "properties": "rotation, 7",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:skeleton_skull",
+    "properties": "rotation, 15",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:skeleton_skull",
+    "properties": "rotation, 1",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_prismarine_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "5712"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_prismarine_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "5612"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_prismarine_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "5512"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_prismarine_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "5412"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:terracotta",
+    "type": "C00A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:black_terracotta",
+    "type": "FF09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:blue_terracotta",
+    "type": "FB09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_blue_terracotta",
+    "type": "F309"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cyan_terracotta",
+    "type": "F909"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:green_terracotta",
+    "type": "FD09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lime_terracotta",
+    "type": "F509"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:pink_terracotta",
+    "type": "F609"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:magenta_terracotta",
+    "type": "F209"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purple_terracotta",
+    "type": "FA09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_brick_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "4212"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_brick_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "4112"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_brick_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "4012"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_brick_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "4712"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_brick_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "4612"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_brick_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "4512"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_brick_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "4412"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_prismarine_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "5312"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_prismarine_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "5212"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_prismarine_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "5112"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_prismarine_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "5012"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purpur_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "B50C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purpur_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "B40C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "3312"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "3212"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "3112"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "3012"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "3712"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "3612"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "3512"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "3412"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:prismarine_brick_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "4312"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:quartz_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "C709"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:quartz_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "C609"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:quartz_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "C509"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:quartz_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "C409"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purpur_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "B30C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purpur_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "B20C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purpur_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "B10C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purpur_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "B00C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purpur_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "B70C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purpur_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "B60C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_sandstone_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "420B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_sandstone_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "410B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_sandstone_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "400B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_sandstone_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "470B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_sandstone_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "460B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_sandstone_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "450B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_sandstone_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "440B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:quartz_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "C309"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:quartz_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "C209"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:quartz_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "C109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:quartz_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "C009"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_brick_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "2507"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_brick_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "2407"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sandstone_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "0308"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sandstone_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "0208"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sandstone_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "0108"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sandstone_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "0008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sandstone_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "0708"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sandstone_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "0608"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sandstone_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "0508"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sandstone_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "0408"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_sandstone_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "430B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_brick_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "D706"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_brick_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "D606"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_brick_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "D506"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_brick_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "D406"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_brick_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "2307"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_brick_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "2207"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_brick_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "2107"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_brick_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "2007"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_brick_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "2707"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_brick_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "2607"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brick_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "C206"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brick_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "C106"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brick_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "C006"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brick_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "C706"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brick_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "C606"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brick_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "C506"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brick_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "C406"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_brick_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "D306"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_brick_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "D206"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_brick_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "D106"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_brick_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "D006"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "450A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "440A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cobblestone_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "3304"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cobblestone_stairs",
+    "properties": "half, bottom, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "3204"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cobblestone_stairs",
+    "properties": "half, bottom, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "3104"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cobblestone_stairs",
+    "properties": "half, bottom, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "3004"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cobblestone_stairs",
+    "properties": "half, top, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "3704"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cobblestone_stairs",
+    "properties": "half, top, facing, south, shape, straight",
+    "wasd_data": "true",
+    "type": "3604"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cobblestone_stairs",
+    "properties": "half, top, facing, west, shape, straight",
+    "wasd_data": "true",
+    "type": "3504"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cobblestone_stairs",
+    "properties": "half, top, facing, east, shape, straight",
+    "wasd_data": "true",
+    "type": "3404"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brick_stairs",
+    "properties": "half, bottom, facing, north, shape, straight",
+    "wasd_data": "true",
+    "type": "C306"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_sign",
+    "properties": "rotation, 14",
+    "wasd_data": "true",
+    "type": "FE03"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_sign",
+    "properties": "rotation, 6",
+    "wasd_data": "true",
+    "type": "F603"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_sign",
+    "properties": "rotation, 10",
+    "wasd_data": "true",
+    "type": "FA03"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_wall_sign",
+    "properties": "facing, south",
+    "wasd_data": "true",
+    "type": "4304"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_wall_sign",
+    "properties": "facing, north",
+    "wasd_data": "true",
+    "type": "4204"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_wall_sign",
+    "properties": "facing, east",
+    "wasd_data": "true",
+    "type": "4504"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_wall_sign",
+    "properties": "facing, west",
+    "wasd_data": "true",
+    "type": "4404"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:bookshelf",
+    "type": "F002"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:hay_block",
+    "properties": "axis, y",
+    "type": "A00A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:hay_block",
+    "properties": "axis, x",
+    "type": "A40A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:hay_block",
+    "properties": "axis, z",
+    "type": "A80A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:bone_block",
+    "properties": "axis, z",
+    "type": "880D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chorus_flower",
+    "properties": "age, 0",
+    "type": "800C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:tripwire",
+    "properties": "attached, false, disarmed, false, powered, false, north, false, south, true, east, false, west, false",
+    "type": "4008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chorus_plant",
+    "properties": "north, true, south, false, east, false, west, false, up, false, down, true",
+    "type": "700C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:tripwire",
+    "properties": "attached, false, disarmed, false, powered, false, north, true, south, false, east, false, west, false",
+    "type": "4008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:orange_tulip",
+    "type": "6502"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:white_tulip",
+    "type": "6602"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:pink_tulip",
+    "type": "6702"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oxeye_daisy",
+    "type": "6802"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sunflower",
+    "properties": "half, lower",
+    "type": "F00A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sunflower",
+    "properties": "half, upper",
+    "type": "FA0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lilac",
+    "properties": "half, lower",
+    "type": "F10A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lilac",
+    "properties": "half, upper",
+    "type": "FA0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:tall_grass",
+    "properties": "half, lower",
+    "type": "F20A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:tall_grass",
+    "properties": "half, upper",
+    "type": "FA0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:large_fern",
+    "properties": "half, lower",
+    "type": "F30A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:large_fern",
+    "properties": "half, upper",
+    "type": "FA0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:rose_bush",
+    "properties": "half, lower",
+    "type": "F40A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:rose_bush",
+    "properties": "half, upper",
+    "type": "FA0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:peony",
+    "properties": "half, lower",
+    "type": "F50A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:peony",
+    "properties": "half, upper",
+    "type": "FA0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brown_mushroom",
+    "type": "7002"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_mushroom",
+    "type": "8002"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cactus",
+    "properties": "age, 0",
+    "type": "1005"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:tripwire",
+    "properties": "attached, false, disarmed, false, powered, false, north, false, south, false, east, false, west, false",
+    "type": "4008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:snow",
+    "properties": "layers, 1",
+    "type": "E004"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:snow",
+    "properties": "layers, 2",
+    "type": "E104"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:snow",
+    "properties": "layers, 3",
+    "type": "E204"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_sign",
+    "properties": "rotation, 0",
+    "wasd_data": "true",
+    "type": "F003"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_sign",
+    "properties": "rotation, 8",
+    "wasd_data": "true",
+    "type": "F803"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_sign",
+    "properties": "rotation, 12",
+    "wasd_data": "true",
+    "type": "FC03"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_sign",
+    "properties": "rotation, 4",
+    "wasd_data": "true",
+    "type": "F403"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_sign",
+    "properties": "rotation, 2",
+    "wasd_data": "true",
+    "type": "F203"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:snow",
+    "properties": "layers, 4",
+    "type": "E304"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:snow",
+    "properties": "layers, 5",
+    "type": "E404"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:snow",
+    "properties": "layers, 6",
+    "type": "E504"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:snow",
+    "properties": "layers, 7",
+    "type": "E604"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:snow",
+    "properties": "layers, 8",
+    "type": "E704"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cobweb",
+    "type": "E001"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:glass_pane",
+    "properties": "north, false, south, true, west, false, east, false",
+    "type": "6006"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:glass",
+    "type": "4001"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wall_torch",
+    "properties": "facing, west",
+    "wasd_data": "true",
+    "type": "2203"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_bush",
+    "type": "F001"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:grass",
+    "properties": "snowy, false",
+    "type": "F101"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:fern",
+    "type": "F201"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:flower_pot",
+    "type": "C008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dandelion",
+    "type": "5002"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:poppy",
+    "type": "6002"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:blue_orchid",
+    "type": "6102"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:allium",
+    "type": "6202"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:azure_bluet",
+    "type": "6302"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_tulip",
+    "type": "6402"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:vine",
+    "properties": "up, false, north, false, east, false, south, false, west, true",
+    "type": "A206"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:vine",
+    "properties": "up, false, north, false, east, true, south, false, west, false",
+    "type": "A806"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:water",
+    "properties": "level, 0",
+    "type": "9000"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lily_pad",
+    "type": "F006"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:torch",
+    "type": "2503"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wall_torch",
+    "properties": "facing, south",
+    "wasd_data": "true",
+    "type": "2303"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wall_torch",
+    "properties": "facing, north",
+    "wasd_data": "true",
+    "type": "2403"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wall_torch",
+    "properties": "facing, east",
+    "wasd_data": "true",
+    "type": "2103"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:vine",
+    "properties": "up, false, north, true, east, false, south, false, west, false",
+    "type": "A406"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:carved_pumpkin",
+    "properties": "facing, south",
+    "type": "6005"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:carved_pumpkin",
+    "properties": "facing, north",
+    "type": "6205"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:carved_pumpkin",
+    "properties": "facing, east",
+    "type": "6305"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:carved_pumpkin",
+    "properties": "facing, west",
+    "type": "6105"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jack_o_lantern",
+    "properties": "facing, south",
+    "type": "B005"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jack_o_lantern",
+    "properties": "facing, north",
+    "type": "B205"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jack_o_lantern",
+    "properties": "facing, east",
+    "type": "B305"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jack_o_lantern",
+    "properties": "facing, west",
+    "type": "B105"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_leaves",
+    "properties": "persistent, true, distance, 7",
+    "type": "2C01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_leaves",
+    "properties": "persistent, true, distance, 7",
+    "type": "2D01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_leaves",
+    "properties": "persistent, true, distance, 7",
+    "type": "2E01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_leaves",
+    "properties": "persistent, true, distance, 7",
+    "type": "2F01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_leaves",
+    "properties": "persistent, true, distance, 7",
+    "type": "1C0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_leaves",
+    "properties": "persistent, true, distance, 7",
+    "type": "1D0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:vine",
+    "properties": "up, false, north, false, east, false, south, true, west, false",
+    "type": "A106"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sponge",
+    "type": "3001"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wet_sponge",
+    "type": "3101"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:melon",
+    "type": "7006"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:pumpkin",
+    "type": "1010"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dragon_head",
+    "properties": "rotation, 4",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dragon_wall_head",
+    "properties": "facing, north",
+    "type": "0209"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dragon_head",
+    "properties": "rotation, 12",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dragon_wall_head",
+    "properties": "facing, east",
+    "type": "0509"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dragon_head",
+    "properties": "rotation, 10",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dragon_head",
+    "properties": "rotation, 7",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dragon_head",
+    "properties": "rotation, 14",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dragon_head",
+    "properties": "rotation, 1",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dragon_wall_head",
+    "properties": "facing, south",
+    "type": "0309"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dragon_wall_head",
+    "properties": "facing, west",
+    "type": "0409"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:rail",
+    "properties": "shape, north_west",
+    "type": "2804"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:powered_rail",
+    "properties": "powered, false, shape, north_south",
+    "type": "B001"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:powered_rail",
+    "properties": "powered, false, shape, east_west",
+    "type": "B101"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:powered_rail",
+    "properties": "powered, true, shape, north_south",
+    "type": "B801"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:powered_rail",
+    "properties": "powered, true, shape, east_west",
+    "type": "B901"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:powered_rail",
+    "properties": "powered, false, shape, ascending_west",
+    "type": "B301"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:powered_rail",
+    "properties": "powered, false, shape, ascending_east",
+    "type": "B201"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:powered_rail",
+    "properties": "powered, true, shape, ascending_west",
+    "type": "BB01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:powered_rail",
+    "properties": "powered, true, shape, ascending_east",
+    "type": "BA01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:creeper_head",
+    "properties": "rotation, 8",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:creeper_head",
+    "properties": "rotation, 0",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:creeper_wall_head",
+    "properties": "facing, south",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:creeper_head",
+    "properties": "rotation, 4",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:creeper_head",
+    "properties": "rotation, 12",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:creeper_head",
+    "properties": "rotation, 11",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:creeper_head",
+    "properties": "rotation, 7",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:creeper_head",
+    "properties": "rotation, 15",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:creeper_head",
+    "properties": "rotation, 2",
+    "type": "0309"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:creeper_wall_head",
+    "properties": "facing, north",
+    "type": "0209"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:creeper_wall_head",
+    "properties": "facing, east",
+    "type": "0509"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:creeper_wall_head",
+    "properties": "facing, west",
+    "type": "0409"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dragon_head",
+    "properties": "rotation, 0",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dragon_head",
+    "properties": "rotation, 8",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:zombie_wall_head",
+    "properties": "facing, west",
+    "type": "0409"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:player_head",
+    "properties": "rotation, 15",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:player_head",
+    "properties": "rotation, 8",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:player_head",
+    "properties": "rotation, 0",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:player_head",
+    "properties": "rotation, 4",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:player_head",
+    "properties": "rotation, 12",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:player_head",
+    "properties": "rotation, 10",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:player_head",
+    "properties": "rotation, 7",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:player_head",
+    "properties": "rotation, 2",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:player_wall_head",
+    "properties": "facing, south",
+    "type": "0309"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:player_wall_head",
+    "properties": "facing, north",
+    "type": "0209"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:player_wall_head",
+    "properties": "facing, east",
+    "type": "0509"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:player_wall_head",
+    "properties": "facing, west",
+    "type": "0409"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wither_skeleton_wall_skull",
+    "properties": "facing, north",
+    "type": "0209"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wither_skeleton_wall_skull",
+    "properties": "facing, east",
+    "type": "0509"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:wither_skeleton_wall_skull",
+    "properties": "facing, west",
+    "type": "0409"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:zombie_wall_head",
+    "properties": "facing, south",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:zombie_head",
+    "properties": "rotation, 0",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:zombie_wall_head",
+    "properties": "facing, north",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:zombie_head",
+    "properties": "rotation, 4",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:zombie_wall_head",
+    "properties": "facing, east",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:zombie_head",
+    "properties": "rotation, 8",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:zombie_head",
+    "properties": "rotation, 12",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:zombie_head",
+    "properties": "rotation, 10",
+    "type": "0109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:zombie_head",
+    "properties": "rotation, 7",
+    "type": "0309"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:zombie_head",
+    "properties": "rotation, 14",
+    "type": "0209"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:zombie_head",
+    "properties": "rotation, 1",
+    "type": "0509"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:powered_rail",
+    "properties": "powered, false, shape, ascending_south",
+    "type": "B501"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:powered_rail",
+    "properties": "powered, false, shape, ascending_north",
+    "type": "B401"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:powered_rail",
+    "properties": "powered, true, shape, ascending_south",
+    "type": "BD01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:powered_rail",
+    "properties": "powered, true, shape, ascending_north",
+    "type": "BC01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:detector_rail",
+    "properties": "powered, false, shape, north_south",
+    "type": "C001"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:detector_rail",
+    "properties": "powered, false, shape, east_west",
+    "type": "C101"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:detector_rail",
+    "properties": "powered, false, shape, ascending_west",
+    "type": "C301"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:detector_rail",
+    "properties": "powered, false, shape, ascending_east",
+    "type": "C201"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:rail",
+    "properties": "shape, east_west",
+    "type": "2104"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:rail",
+    "properties": "shape, ascending_south",
+    "type": "2504"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:rail",
+    "properties": "shape, ascending_north",
+    "type": "2404"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:rail",
+    "properties": "shape, ascending_west",
+    "type": "2304"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:rail",
+    "properties": "shape, ascending_east",
+    "type": "2204"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:rail",
+    "properties": "shape, north_east",
+    "type": "2904"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:rail",
+    "properties": "shape, south_west",
+    "type": "2704"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:rail",
+    "properties": "shape, south_east",
+    "type": "2604"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:pink_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "060A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:magenta_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "020A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purple_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "0A0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "0E0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brown_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "0C0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:orange_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "010A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:yellow_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "040A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:white_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "000A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_gray_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "080A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:gray_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "070A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_mushroom_block",
+    "properties": "down, true, up, true, north, true, east, true, south, true, west, true",
+    "type": "4B06"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brown_mushroom_block",
+    "properties": "down, true, up, true, north, true, east, true, south, true, west, true",
+    "type": "3B06"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brown_mushroom_block",
+    "properties": "down, false, up, false, north, false, east, false, south, false, west, false",
+    "type": "3006"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:mushroom_stem",
+    "properties": "down, false, up, false, north, true, east, true, south, true, west, true",
+    "type": "3A06"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_horn_coral_block",
+    "type": "3C10"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:rail",
+    "properties": "shape, north_south",
+    "type": "2004"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:pink_stained_glass",
+    "type": "F605"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:magenta_stained_glass",
+    "type": "F205"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purple_stained_glass",
+    "type": "FA05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_stained_glass",
+    "type": "FE05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brown_stained_glass",
+    "type": "FC05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:orange_stained_glass",
+    "type": "F105"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:yellow_stained_glass",
+    "type": "F405"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:white_stained_glass",
+    "type": "F005"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_gray_stained_glass",
+    "type": "F805"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:gray_stained_glass",
+    "type": "F705"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:black_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "0F0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:blue_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "0B0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_blue_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "030A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cyan_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "090A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:green_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "0D0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lime_stained_glass_pane",
+    "properties": "north, true, south, true, west, false, east, false",
+    "type": "050A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:pink_carpet",
+    "type": "B60A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:magenta_carpet",
+    "type": "B20A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purple_carpet",
+    "type": "BA0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_carpet",
+    "type": "BE0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brown_carpet",
+    "type": "BC0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:orange_carpet",
+    "type": "B10A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:yellow_carpet",
+    "type": "B40A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:white_carpet",
+    "type": "B00A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_gray_carpet",
+    "type": "B80A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:gray_carpet",
+    "type": "B70A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:black_stained_glass",
+    "type": "FF05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:blue_stained_glass",
+    "type": "FB05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_blue_stained_glass",
+    "type": "F305"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cyan_stained_glass",
+    "type": "F905"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:green_stained_glass",
+    "type": "FD05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lime_stained_glass",
+    "type": "F505"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:pink_wool",
+    "type": "3602"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:magenta_wool",
+    "type": "3202"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purple_wool",
+    "type": "3A02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_wool",
+    "type": "3E02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brown_wool",
+    "type": "3C02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:orange_wool",
+    "type": "3102"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:yellow_wool",
+    "type": "3402"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:white_wool",
+    "type": "3002"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_gray_wool",
+    "type": "3802"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:gray_wool",
+    "type": "3702"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:black_carpet",
+    "type": "BF0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:blue_carpet",
+    "type": "BB0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_blue_carpet",
+    "type": "B30A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cyan_carpet",
+    "type": "B90A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:green_carpet",
+    "type": "BD0A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lime_carpet",
+    "type": "B50A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:pink_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "100F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:magenta_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "D00E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purple_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "500F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "900F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brown_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "700F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:orange_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "C00E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:yellow_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "F00E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:white_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "B00E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_gray_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "300F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:gray_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "200F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:black_wool",
+    "type": "3F02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:blue_wool",
+    "type": "3B02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_blue_wool",
+    "type": "3302"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cyan_wool",
+    "type": "3902"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:green_wool",
+    "type": "3D02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lime_wool",
+    "type": "3502"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:pink_concrete_powder",
+    "type": "C60F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:magenta_concrete_powder",
+    "type": "C20F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purple_concrete_powder",
+    "type": "CA0F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_concrete_powder",
+    "type": "CE0F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brown_concrete_powder",
+    "type": "CC0F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:orange_concrete_powder",
+    "type": "C10F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:yellow_concrete_powder",
+    "type": "C40F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:white_concrete_powder",
+    "type": "C00F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_gray_concrete_powder",
+    "type": "C80F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:gray_concrete_powder",
+    "type": "C70F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:black_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "A00F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:blue_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "600F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_blue_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "E00E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cyan_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "400F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:green_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "800F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lime_glazed_terracotta",
+    "properties": "facing, south",
+    "type": "000F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:pink_concrete",
+    "type": "B60F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:magenta_concrete",
+    "type": "B20F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purple_concrete",
+    "type": "BA0F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_concrete",
+    "type": "BE0F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brown_concrete",
+    "type": "BC0F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:orange_concrete",
+    "type": "B10F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:yellow_concrete",
+    "type": "B40F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:white_concrete",
+    "type": "B00F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_gray_concrete",
+    "type": "B80F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:gray_concrete",
+    "type": "B70F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:black_concrete_powder",
+    "type": "CF0F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:blue_concrete_powder",
+    "type": "CB0F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_blue_concrete_powder",
+    "type": "C30F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cyan_concrete_powder",
+    "type": "C90F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:green_concrete_powder",
+    "type": "CD0F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lime_concrete_powder",
+    "type": "C50F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_rod",
+    "properties": "facing, up",
+    "type": "610C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_rod",
+    "properties": "facing, north",
+    "type": "630C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_rod",
+    "properties": "facing, south",
+    "type": "620C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_rod",
+    "properties": "facing, west",
+    "type": "650C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_rod",
+    "properties": "facing, east",
+    "type": "640C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_rod",
+    "properties": "facing, down",
+    "type": "600C"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cobblestone_wall",
+    "properties": "north, false, south, true, west, false, east, false, up, true",
+    "type": "B008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:mossy_cobblestone_wall",
+    "properties": "north, true, south, true, west, false, east, false, up, false",
+    "type": "B108"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:black_concrete",
+    "type": "BF0F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:blue_concrete",
+    "type": "BB0F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_blue_concrete",
+    "type": "B30F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cyan_concrete",
+    "type": "B90F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:green_concrete",
+    "type": "BD0F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lime_concrete",
+    "type": "B50F"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 2, facing, east, locked, false",
+    "type": "D705"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 3, facing, east, locked, false",
+    "type": "DB05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 4, facing, east, locked, false",
+    "type": "DF05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 1, facing, west, locked, false",
+    "type": "D105"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 2, facing, west, locked, false",
+    "type": "D505"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 3, facing, west, locked, false",
+    "type": "D905"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 4, facing, west, locked, false",
+    "type": "DD05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 1, facing, south, locked, false",
+    "type": "E005"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 2, facing, south, locked, false",
+    "type": "E405"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 3, facing, south, locked, false",
+    "type": "E805"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 4, facing, south, locked, false",
+    "type": "EC05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 1, facing, north, locked, false",
+    "type": "E205"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 2, facing, north, locked, false",
+    "type": "E605"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:redstone_wall_torch",
+    "wasd_data": "true",
+    "type": "B304"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 1, facing, south, locked, false",
+    "type": "D005"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 2, facing, south, locked, false",
+    "type": "D405"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 3, facing, south, locked, false",
+    "type": "D805"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 4, facing, south, locked, false",
+    "type": "DC05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 1, facing, north, locked, false",
+    "type": "D205"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 2, facing, north, locked, false",
+    "type": "D605"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 3, facing, north, locked, false",
+    "type": "DA05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 4, facing, north, locked, false",
+    "type": "DE05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, false, delay, 1, facing, east, locked, false",
+    "type": "D305"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_pressure_plate",
+    "properties": "powered, false",
+    "type": "8004"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_pressure_plate",
+    "properties": "powered, false",
+    "type": "1013"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_pressure_plate",
+    "properties": "powered, false",
+    "type": "E012"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_pressure_plate",
+    "properties": "powered, false",
+    "type": "0013"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_pressure_plate",
+    "properties": "powered, false",
+    "type": "D012"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_pressure_plate",
+    "properties": "powered, false",
+    "type": "F012"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:redstone_wire",
+    "wasd_data": "true",
+    "type": "7003"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:redstone_torch",
+    "properties": "lit, true",
+    "type": "C504"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_button",
+    "properties": "powered, false, face, wall, facing, south",
+    "type": "2313"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_button",
+    "properties": "powered, false, face, wall, facing, north",
+    "type": "2413"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_button",
+    "properties": "powered, false, face, wall, facing, east",
+    "type": "2113"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_button",
+    "properties": "powered, false, face, wall, facing, west",
+    "type": "2213"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_button",
+    "properties": "powered, false, face, floor",
+    "type": "2513"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_button",
+    "properties": "powered, false, face, ceiling",
+    "type": "2013"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_button",
+    "properties": "powered, false, face, wall, facing, south",
+    "type": "4313"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_button",
+    "properties": "powered, false, face, wall, facing, north",
+    "type": "4413"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_button",
+    "properties": "powered, false, face, wall, facing, east",
+    "type": "4113"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_button",
+    "properties": "powered, false, face, wall, facing, west",
+    "type": "4213"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_button",
+    "properties": "powered, false, face, floor",
+    "type": "4513"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_button",
+    "properties": "powered, false, face, ceiling",
+    "type": "4013"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_pressure_plate",
+    "properties": "powered, false",
+    "type": "6004"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_button",
+    "properties": "powered, false, face, wall, facing, south",
+    "type": "3313"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_button",
+    "properties": "powered, false, face, wall, facing, north",
+    "type": "3413"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_button",
+    "properties": "powered, false, face, wall, facing, east",
+    "type": "3113"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_button",
+    "properties": "powered, false, face, wall, facing, west",
+    "type": "3213"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_button",
+    "properties": "powered, false, face, floor",
+    "type": "3513"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_button",
+    "properties": "powered, false, face, ceiling",
+    "type": "3013"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_button",
+    "properties": "powered, false, face, wall, facing, south",
+    "type": "5313"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_button",
+    "properties": "powered, false, face, wall, facing, north",
+    "type": "5413"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_button",
+    "properties": "powered, false, face, wall, facing, east",
+    "type": "5113"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_button",
+    "properties": "powered, false, face, wall, facing, west",
+    "type": "5213"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_button",
+    "properties": "powered, false, face, floor",
+    "type": "5513"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_button",
+    "properties": "powered, false, face, ceiling",
+    "type": "5013"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_button",
+    "properties": "powered, false, face, wall, facing, south",
+    "type": "F308"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_button",
+    "properties": "powered, false, face, wall, facing, north",
+    "type": "F408"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_button",
+    "properties": "powered, false, face, wall, facing, east",
+    "type": "F108"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_button",
+    "properties": "powered, false, face, wall, facing, west",
+    "type": "F208"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_button",
+    "properties": "powered, false, face, floor",
+    "type": "F508"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_button",
+    "properties": "powered, false, face, ceiling",
+    "type": "F008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_button",
+    "properties": "powered, false, face, wall, facing, south",
+    "type": "6313"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_button",
+    "properties": "powered, false, face, wall, facing, north",
+    "type": "6413"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_button",
+    "properties": "powered, false, face, wall, facing, east",
+    "type": "6113"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_button",
+    "properties": "powered, false, face, wall, facing, west",
+    "type": "6213"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_button",
+    "properties": "powered, false, face, floor",
+    "type": "6513"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_button",
+    "properties": "powered, false, face, ceiling",
+    "type": "6013"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lever",
+    "properties": "powered, true, face, wall, facing, south",
+    "type": "5B04"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lever",
+    "properties": "powered, true, face, wall, facing, north",
+    "type": "5C04"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lever",
+    "properties": "powered, true, face, wall, facing, east",
+    "type": "5904"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lever",
+    "properties": "powered, true, face, wall, facing, west",
+    "type": "5A04"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lever",
+    "properties": "powered, true, face, floor, facing, north",
+    "type": "5D04"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lever",
+    "properties": "powered, true, face, ceiling, facing, north",
+    "type": "5F04"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_button",
+    "properties": "powered, false, face, wall, facing, south",
+    "type": "D304"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_button",
+    "properties": "powered, false, face, wall, facing, north",
+    "type": "D404"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_button",
+    "properties": "powered, false, face, wall, facing, east",
+    "type": "D104"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_button",
+    "properties": "powered, false, face, wall, facing, west",
+    "type": "D204"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_button",
+    "properties": "powered, false, face, floor",
+    "type": "D504"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:stone_button",
+    "properties": "powered, false, face, ceiling",
+    "type": "D004"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston",
+    "properties": "extended, false, facing, down",
+    "type": "1002"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sticky_piston",
+    "properties": "extended, false, facing, south",
+    "type": "D301"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sticky_piston",
+    "properties": "extended, false, facing, north",
+    "type": "D201"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sticky_piston",
+    "properties": "extended, false, facing, east",
+    "type": "D501"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sticky_piston",
+    "properties": "extended, false, facing, west",
+    "type": "D401"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sticky_piston",
+    "properties": "extended, false, facing, up",
+    "type": "D101"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sticky_piston",
+    "properties": "extended, false, facing, down",
+    "type": "D001"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:tnt",
+    "properties": "unstable, false",
+    "type": "E002"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lever",
+    "properties": "powered, false, face, wall, facing, south",
+    "type": "5304"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lever",
+    "properties": "powered, false, face, wall, facing, north",
+    "type": "5404"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lever",
+    "properties": "powered, false, face, wall, facing, east",
+    "type": "5104"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lever",
+    "properties": "powered, false, face, wall, facing, west",
+    "type": "5204"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lever",
+    "properties": "powered, false, face, floor, facing, north",
+    "type": "5504"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lever",
+    "properties": "powered, false, face, ceiling, facing, north",
+    "type": "5704"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:ladder",
+    "properties": "facing, south",
+    "type": "1304"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:ladder",
+    "properties": "facing, east",
+    "type": "1504"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:ladder",
+    "properties": "facing, west",
+    "type": "1404"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dispenser",
+    "properties": "triggered, false, facing, south",
+    "type": "7301"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dispenser",
+    "properties": "triggered, false, facing, north",
+    "type": "7201"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dispenser",
+    "properties": "triggered, false, facing, east",
+    "type": "7501"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dispenser",
+    "properties": "triggered, false, facing, west",
+    "type": "7401"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dispenser",
+    "properties": "triggered, false, facing, up",
+    "type": "7101"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dispenser",
+    "properties": "triggered, false, facing, down",
+    "type": "7001"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:note_block",
+    "properties": "instrument, basedrum, note, 0, powered, false",
+    "type": "9001"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston",
+    "properties": "extended, false, facing, south",
+    "type": "1302"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston",
+    "properties": "extended, false, facing, north",
+    "type": "1202"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston",
+    "properties": "extended, false, facing, east",
+    "type": "1502"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston",
+    "properties": "extended, false, facing, west",
+    "type": "1402"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston",
+    "properties": "extended, false, facing, up",
+    "type": "1102"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:activator_rail",
+    "properties": "powered, false, shape, east_west",
+    "type": "D109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:activator_rail",
+    "properties": "powered, false, shape, ascending_south",
+    "type": "D509"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:activator_rail",
+    "properties": "powered, false, shape, ascending_north",
+    "type": "D409"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:activator_rail",
+    "properties": "powered, false, shape, ascending_west",
+    "type": "D309"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:activator_rail",
+    "properties": "powered, false, shape, ascending_east",
+    "type": "D209"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:activator_rail",
+    "properties": "powered, true, shape, ascending_south",
+    "type": "DD09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:activator_rail",
+    "properties": "powered, true, shape, ascending_north",
+    "type": "DC09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:activator_rail",
+    "properties": "powered, true, shape, ascending_west",
+    "type": "DB09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:activator_rail",
+    "properties": "powered, true, shape, ascending_east",
+    "type": "DA09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:ladder",
+    "properties": "facing, north",
+    "type": "1204"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:detector_rail",
+    "properties": "powered, false, shape, ascending_south",
+    "type": "C501"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:detector_rail",
+    "properties": "powered, false, shape, ascending_north",
+    "type": "C401"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:activator_rail",
+    "properties": "powered, false, shape, north_south",
+    "type": "D009"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:turtle_egg",
+    "properties": "hatch, 0, eggs, 2",
+    "type": "7111"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:turtle_egg",
+    "properties": "hatch, 0, eggs, 3",
+    "type": "7211"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:turtle_egg",
+    "properties": "hatch, 0, eggs, 4",
+    "type": "7311"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:command_block",
+    "properties": "conditional, false, facing, north",
+    "type": "9208"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:command_block",
+    "properties": "conditional, false, facing, south",
+    "type": "9308"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:command_block",
+    "properties": "conditional, false, facing, west",
+    "type": "9408"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:command_block",
+    "properties": "conditional, false, facing, east",
+    "type": "9508"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:command_block",
+    "properties": "conditional, false, facing, down",
+    "type": "9008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:command_block",
+    "properties": "conditional, false, facing, up",
+    "type": "9108"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeating_command_block",
+    "properties": "conditional, false, facing, north",
+    "type": "220D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeating_command_block",
+    "properties": "conditional, false, facing, south",
+    "type": "230D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeating_command_block",
+    "properties": "conditional, false, facing, west",
+    "type": "240D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeating_command_block",
+    "properties": "conditional, false, facing, east",
+    "type": "250D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeating_command_block",
+    "properties": "conditional, false, facing, down",
+    "type": "200D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:command_block",
+    "properties": "conditional, true, facing, north",
+    "type": "9208"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:command_block",
+    "properties": "conditional, true, facing, south",
+    "type": "9308"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:command_block",
+    "properties": "conditional, true, facing, west",
+    "type": "9408"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:command_block",
+    "properties": "conditional, true, facing, east",
+    "type": "9508"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:command_block",
+    "properties": "conditional, true, facing, down",
+    "type": "9008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:command_block",
+    "properties": "conditional, true, facing, up",
+    "type": "9108"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeating_command_block",
+    "properties": "conditional, true, facing, north",
+    "type": "220D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeating_command_block",
+    "properties": "conditional, true, facing, south",
+    "type": "230D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeating_command_block",
+    "properties": "conditional, true, facing, west",
+    "type": "240D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeating_command_block",
+    "properties": "conditional, true, facing, east",
+    "type": "250D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeating_command_block",
+    "properties": "conditional, true, facing, down",
+    "type": "200D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_portal_frame",
+    "properties": "facing, east, eye, true",
+    "type": "8707"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_portal_frame",
+    "properties": "facing, south, eye, true",
+    "type": "8407"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_portal",
+    "type": "7007"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_portal_frame",
+    "properties": "facing, north, eye, true",
+    "type": "8607"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spawner",
+    "type": "4003"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:nether_portal",
+    "properties": "axis, z",
+    "type": "A205"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sticky_piston",
+    "properties": "extended, true, facing, south",
+    "type": "DB01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston_head",
+    "properties": "type, sticky, facing, south",
+    "type": "2B02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston_head",
+    "properties": "type, sticky, facing, north",
+    "type": "2A02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sticky_piston",
+    "properties": "extended, true, facing, north",
+    "type": "DA01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_portal_frame",
+    "properties": "facing, west, eye, true",
+    "type": "8507"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_portal_frame",
+    "properties": "facing, south, eye, false",
+    "type": "8007"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_portal_frame",
+    "properties": "facing, north, eye, false",
+    "type": "8207"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_portal_frame",
+    "properties": "facing, east, eye, false",
+    "type": "8307"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_portal_frame",
+    "properties": "facing, west, eye, false",
+    "type": "8107"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jukebox",
+    "properties": "has_record, false",
+    "type": "4005"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:anvil",
+    "properties": "facing, west",
+    "type": "1309"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:anvil",
+    "properties": "facing, east",
+    "type": "1109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:anvil",
+    "properties": "facing, south",
+    "type": "1209"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:anvil",
+    "properties": "facing, north",
+    "type": "1009"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cauldron",
+    "properties": "level, 0",
+    "type": "6007"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:turtle_egg",
+    "properties": "hatch, 0, eggs, 1",
+    "type": "7011"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brown_shulker_box",
+    "properties": "facing, west",
+    "type": "740E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:orange_shulker_box",
+    "properties": "facing, up",
+    "type": "C10D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:orange_shulker_box",
+    "properties": "facing, east",
+    "type": "C50D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:orange_shulker_box",
+    "properties": "facing, west",
+    "type": "C40D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:yellow_shulker_box",
+    "properties": "facing, up",
+    "type": "F10D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:yellow_shulker_box",
+    "properties": "facing, east",
+    "type": "F50D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:yellow_shulker_box",
+    "properties": "facing, west",
+    "type": "F40D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:white_shulker_box",
+    "properties": "facing, up",
+    "type": "B10D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:white_shulker_box",
+    "properties": "facing, east",
+    "type": "B50D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:white_shulker_box",
+    "properties": "facing, west",
+    "type": "B40D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_gray_shulker_box",
+    "properties": "facing, up",
+    "type": "310E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_gray_shulker_box",
+    "properties": "facing, east",
+    "type": "350E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_gray_shulker_box",
+    "properties": "facing, west",
+    "type": "340E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:gray_shulker_box",
+    "properties": "facing, up",
+    "type": "210E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:gray_shulker_box",
+    "properties": "facing, east",
+    "type": "250E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:gray_shulker_box",
+    "properties": "facing, west",
+    "type": "240E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lime_shulker_box",
+    "properties": "facing, east",
+    "type": "050E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lime_shulker_box",
+    "properties": "facing, west",
+    "type": "040E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:pink_shulker_box",
+    "properties": "facing, up",
+    "type": "110E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:pink_shulker_box",
+    "properties": "facing, east",
+    "type": "150E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:pink_shulker_box",
+    "properties": "facing, west",
+    "type": "140E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:magenta_shulker_box",
+    "properties": "facing, up",
+    "type": "D10D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:magenta_shulker_box",
+    "properties": "facing, east",
+    "type": "D50D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:magenta_shulker_box",
+    "properties": "facing, west",
+    "type": "D40D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purple_shulker_box",
+    "properties": "facing, up",
+    "type": "510E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purple_shulker_box",
+    "properties": "facing, east",
+    "type": "550E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:purple_shulker_box",
+    "properties": "facing, west",
+    "type": "540E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_shulker_box",
+    "properties": "facing, up",
+    "type": "910E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_shulker_box",
+    "properties": "facing, east",
+    "type": "950E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:red_shulker_box",
+    "properties": "facing, west",
+    "type": "940E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brown_shulker_box",
+    "properties": "facing, up",
+    "type": "710E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brown_shulker_box",
+    "properties": "facing, east",
+    "type": "750E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:black_shulker_box",
+    "properties": "facing, up",
+    "type": "A10E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:black_shulker_box",
+    "properties": "facing, east",
+    "type": "A50E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:black_shulker_box",
+    "properties": "facing, west",
+    "type": "A40E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:blue_shulker_box",
+    "properties": "facing, up",
+    "type": "610E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:blue_shulker_box",
+    "properties": "facing, east",
+    "type": "650E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:blue_shulker_box",
+    "properties": "facing, west",
+    "type": "640E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_blue_shulker_box",
+    "properties": "facing, up",
+    "type": "E10D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_blue_shulker_box",
+    "properties": "facing, east",
+    "type": "E50D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_blue_shulker_box",
+    "properties": "facing, west",
+    "type": "E40D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cyan_shulker_box",
+    "properties": "facing, up",
+    "type": "410E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cyan_shulker_box",
+    "properties": "facing, east",
+    "type": "450E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cyan_shulker_box",
+    "properties": "facing, west",
+    "type": "440E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:green_shulker_box",
+    "properties": "facing, up",
+    "type": "810E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:green_shulker_box",
+    "properties": "facing, east",
+    "type": "850E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:green_shulker_box",
+    "properties": "facing, west",
+    "type": "840E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lime_shulker_box",
+    "properties": "facing, up",
+    "type": "010E"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:ender_chest",
+    "properties": "facing, south",
+    "wasd_data": "true",
+    "type": "2308"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:ender_chest",
+    "properties": "facing, north",
+    "wasd_data": "true",
+    "type": "2208"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:ender_chest",
+    "properties": "facing, east",
+    "wasd_data": "true",
+    "type": "2508"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:ender_chest",
+    "properties": "facing, west",
+    "wasd_data": "true",
+    "type": "2408"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:crafting_table",
+    "type": "A003"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:furnace",
+    "properties": "facing, south, lit, false",
+    "type": "D303"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:furnace",
+    "properties": "facing, north, lit, false",
+    "type": "D203"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:furnace",
+    "properties": "facing, east, lit, false",
+    "type": "D503"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:furnace",
+    "properties": "facing, west, lit, false",
+    "type": "D403"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brewing_stand",
+    "properties": "has_bottle_0, false, has_bottle_1, false, has_bottle_2, false",
+    "type": "5007"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:enchanting_table",
+    "type": "4007"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:beacon",
+    "type": "A008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:conduit",
+    "type": "0010"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:light_weighted_pressure_plate",
+    "properties": "power, 0",
+    "type": "3009"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:observer",
+    "properties": "powered, false, facing, north",
+    "type": "A20D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:observer",
+    "properties": "powered, false, facing, south",
+    "type": "A30D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:observer",
+    "properties": "powered, false, facing, west",
+    "type": "A40D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:observer",
+    "properties": "powered, false, facing, east",
+    "type": "A50D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:observer",
+    "properties": "powered, false, facing, down",
+    "type": "A00D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:observer",
+    "properties": "powered, false, facing, up",
+    "type": "A10D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:fire",
+    "properties": "age, 0",
+    "type": "3003"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chest",
+    "properties": "facing, south",
+    "wasd_data": "true",
+    "type": "6303"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, true, mode, compare, facing, east",
+    "type": "5B09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, true, mode, compare, facing, west",
+    "type": "5909"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, true, mode, subtract, facing, south",
+    "type": "5C09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, true, mode, subtract, facing, north",
+    "type": "5E09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, true, mode, subtract, facing, east",
+    "type": "5F09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, true, mode, subtract, facing, west",
+    "type": "5D09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:trapped_chest",
+    "properties": "facing, north, type, single",
+    "type": "2209"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:trapped_chest",
+    "properties": "facing, south, type, single",
+    "type": "2309"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:trapped_chest",
+    "properties": "facing, east, type, single",
+    "type": "2509"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:trapped_chest",
+    "properties": "facing, west, type, single",
+    "type": "2409"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:heavy_weighted_pressure_plate",
+    "properties": "power, 0",
+    "type": "4009"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:hopper",
+    "properties": "facing, west, enabled, true",
+    "type": "A409"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:hopper",
+    "properties": "facing, east, enabled, true",
+    "type": "A509"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:hopper",
+    "properties": "facing, down, enabled, true",
+    "type": "A009"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, false, mode, compare, facing, south",
+    "type": "5009"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, false, mode, compare, facing, north",
+    "type": "5209"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, false, mode, compare, facing, east",
+    "type": "5309"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, false, mode, compare, facing, west",
+    "type": "5109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, false, mode, subtract, facing, south",
+    "type": "5409"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, false, mode, subtract, facing, north",
+    "type": "5609"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, false, mode, subtract, facing, west",
+    "type": "5509"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, false, mode, subtract, facing, east",
+    "type": "5709"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, true, mode, compare, facing, south",
+    "type": "5809"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:comparator",
+    "properties": "powered, true, mode, compare, facing, north",
+    "type": "5A09"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:tripwire_hook",
+    "properties": "attached, false, powered, false, facing, north",
+    "type": "3208"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:tripwire_hook",
+    "properties": "attached, false, powered, false, facing, east",
+    "type": "3308"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:tripwire_hook",
+    "properties": "attached, false, powered, false, facing, west",
+    "type": "3108"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:daylight_detector",
+    "properties": "inverted, false, power, 8",
+    "type": "7809"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:daylight_detector",
+    "properties": "inverted, true, power, 3",
+    "type": "230B"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dropper",
+    "properties": "triggered, false, facing, south",
+    "type": "E309"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dropper",
+    "properties": "triggered, false, facing, north",
+    "type": "E209"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dropper",
+    "properties": "triggered, false, facing, east",
+    "type": "E509"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dropper",
+    "properties": "triggered, false, facing, west",
+    "type": "E409"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dropper",
+    "properties": "triggered, false, facing, up",
+    "type": "E109"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dropper",
+    "properties": "triggered, false, facing, down",
+    "type": "E009"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:hopper",
+    "properties": "facing, north, enabled, true",
+    "type": "A209"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:hopper",
+    "properties": "facing, south, enabled, true",
+    "type": "A309"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 3, facing, north, locked, false",
+    "type": "EA05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 4, facing, north, locked, false",
+    "type": "EE05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 1, facing, west, locked, false",
+    "type": "E105"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 2, facing, west, locked, false",
+    "type": "E505"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 3, facing, west, locked, false",
+    "type": "E905"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 4, facing, west, locked, false",
+    "type": "ED05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 1, facing, east, locked, false",
+    "type": "E305"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 2, facing, east, locked, false",
+    "type": "E705"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 3, facing, east, locked, false",
+    "type": "EB05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeater",
+    "properties": "powered, true, delay, 4, facing, east, locked, false",
+    "type": "EF05"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:redstone_lamp",
+    "properties": "lit, false",
+    "type": "B007"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:redstone_lamp",
+    "properties": "lit, true",
+    "type": "C007"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:tripwire_hook",
+    "properties": "attached, false, powered, false, facing, south",
+    "type": "3008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cauldron",
+    "properties": "level, 2",
+    "type": "6407"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cauldron",
+    "properties": "level, 1",
+    "type": "6207"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:conduit",
+    "type": "0090"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:turtle_egg",
+    "properties": "hatch, 0, eggs, 1, waterlogged, true",
+    "type": "7091"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:turtle_egg",
+    "properties": "hatch, 0, eggs, 2, waterlogged, true",
+    "type": "7191"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:turtle_egg",
+    "properties": "hatch, 0, eggs, 3, waterlogged, true",
+    "type": "7291"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:turtle_egg",
+    "properties": "hatch, 0, eggs, 4, waterlogged, true",
+    "type": "7391"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:fire_coral_block",
+    "type": "3310"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:horn_coral_block",
+    "type": "3410"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_tube_coral_block",
+    "type": "3810"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_brain_coral_block",
+    "type": "3910"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_bubble_coral_block",
+    "type": "3A10"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_fire_coral_block",
+    "type": "3B10"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cauldron",
+    "properties": "level, 3",
+    "type": "6607"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_brain_coral_fan",
+    "type": "9910"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_bubble_coral_fan",
+    "type": "9A10"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_fire_coral_fan",
+    "type": "9B10"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_horn_coral_fan",
+    "type": "9C10"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:tube_coral_block",
+    "type": "3010"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brain_coral_block",
+    "type": "3110"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:bubble_coral_block",
+    "type": "3210"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sea_pickle",
+    "properties": "pickles, 3",
+    "type": "FA10"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sea_pickle",
+    "properties": "pickles, 4",
+    "type": "FB10"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_tube_coral_fan",
+    "type": "9810"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:horn_coral_fan",
+    "properties": "waterlogged, true",
+    "type": "8C90"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_tube_coral_fan",
+    "properties": "waterlogged, true",
+    "type": "9890"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_brain_coral_fan",
+    "properties": "waterlogged, true",
+    "type": "9990"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_bubble_coral_fan",
+    "properties": "waterlogged, true",
+    "type": "9A90"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_fire_coral_fan",
+    "properties": "waterlogged, true",
+    "type": "9B90"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dead_horn_coral_fan",
+    "properties": "waterlogged, true",
+    "type": "9C90"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sea_pickle",
+    "properties": "pickles, 1",
+    "type": "F810"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sea_pickle",
+    "properties": "pickles, 2",
+    "type": "F910"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sea_pickle",
+    "properties": "pickles, 3, waterlogged, true",
+    "type": "F290"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sea_pickle",
+    "properties": "pickles, 4, waterlogged, true",
+    "type": "F390"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:kelp",
+    "properties": "age, 0,waterlogged, true",
+    "type": "2090"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:seagrass",
+    "properties": "waterlogged, true",
+    "type": "E090"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:tube_coral_fan",
+    "properties": "waterlogged, true",
+    "type": "8890"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:brain_coral_fan",
+    "properties": "waterlogged, true",
+    "type": "8990"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:bubble_coral_fan",
+    "properties": "waterlogged, true",
+    "type": "8A90"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:fire_coral_fan",
+    "properties": "waterlogged, true",
+    "type": "8B90"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeating_command_block",
+    "properties": "conditional, false, facing, up",
+    "type": "210D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chain_command_block",
+    "properties": "conditional, false, facing, north",
+    "type": "320D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chain_command_block",
+    "properties": "conditional, false, facing, south",
+    "type": "330D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chain_command_block",
+    "properties": "conditional, false, facing, west",
+    "type": "340D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chain_command_block",
+    "properties": "conditional, false, facing, east",
+    "type": "350D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chain_command_block",
+    "properties": "conditional, false, facing, down",
+    "type": "300D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chain_command_block",
+    "properties": "conditional, false, facing, up",
+    "type": "310D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:lava",
+    "properties": "level, 0",
+    "type": "B000"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:barrier",
+    "type": "600A"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sea_pickle",
+    "properties": "pickles, 1,waterlogged, true",
+    "type": "F090"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sea_pickle",
+    "properties": "pickles, 2,waterlogged, true",
+    "type": "F190"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:repeating_command_block",
+    "properties": "conditional, true, facing, up",
+    "type": "210D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chain_command_block",
+    "properties": "conditional, true, facing, north",
+    "type": "320D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chain_command_block",
+    "properties": "conditional, true, facing, south",
+    "type": "330D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chain_command_block",
+    "properties": "conditional, true, facing, west",
+    "type": "340D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chain_command_block",
+    "properties": "conditional, true, facing, east",
+    "type": "350D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chain_command_block",
+    "properties": "conditional, true, facing, down",
+    "type": "300D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:chain_command_block",
+    "properties": "conditional, true, facing, up",
+    "type": "310D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sticky_piston",
+    "properties": "extended, true, facing, east",
+    "type": "DD01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston_head",
+    "properties": "type, sticky, facing, west",
+    "type": "2C02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston_head",
+    "properties": "type, normal, facing, west",
+    "type": "2402"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston_head",
+    "properties": "type, sticky, facing, east",
+    "type": "2D02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sticky_piston",
+    "properties": "extended, true, facing, west",
+    "type": "DC01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sticky_piston",
+    "properties": "extended, true, facing, up",
+    "type": "D901"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston_head",
+    "properties": "type, sticky, facing, up",
+    "type": "2902"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston_head",
+    "properties": "type, sticky, facing, down",
+    "type": "2802"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:sticky_piston",
+    "properties": "extended, true, facing, down",
+    "type": "D801"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston",
+    "properties": "extended, true, facing, south",
+    "type": "1B02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston_head",
+    "properties": "type, normal, facing, south",
+    "type": "2302"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston_head",
+    "properties": "type, normal, facing, north",
+    "type": "2202"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston",
+    "properties": "extended, true, facing, north",
+    "type": "1A02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston",
+    "properties": "extended, true, facing, east",
+    "type": "1D02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston",
+    "properties": "extended, true, facing, west",
+    "type": "1C02"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston",
+    "properties": "extended, true, facing, up",
+    "type": "1902"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston_head",
+    "properties": "type, normal, facing, up",
+    "type": "2102"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston_head",
+    "properties": "type, normal, facing, down",
+    "type": "2002"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston",
+    "properties": "extended, true, facing, down",
+    "type": "1802"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:piston_head",
+    "properties": "type, normal, facing, east",
+    "type": "2502"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:potted_ANY_ITEM_NAME_HERE",
+    "type": "C008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:end_gateway",
+    "type": "100D"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cake",
+    "properties": "bites, 0",
+    "type": "C005"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cake",
+    "properties": "bites, 1",
+    "type": "C105"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cake",
+    "properties": "bites, 2",
+    "type": "C205"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cake",
+    "properties": "bites, 3",
+    "type": "C305"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cake",
+    "properties": "bites, 4",
+    "type": "C405"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cake",
+    "properties": "bites, 5",
+    "type": "C505"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:cake",
+    "properties": "bites, 6",
+    "type": "C605"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:oak_wood",
+    "properties": "axis, z",
+    "type": "1C01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:spruce_wood",
+    "properties": "axis, z",
+    "type": "1D01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:birch_wood",
+    "properties": "axis, z",
+    "type": "C008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:jungle_wood",
+    "properties": "axis, z",
+    "type": "1E01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:acacia_wood",
+    "properties": "axis, z",
+    "type": "C008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:dark_oak_wood",
+    "properties": "axis, z",
+    "type": "1F01"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:furnace",
+    "properties": "facing, west, lit, true",
+    "type": "C008"
+  },
+  {
+    "image": "",
+    "text_type": "minecraft:redstone_ore",
+    "properties": "lit, false",
+    "type": "2C0A"
+  }
+]]
