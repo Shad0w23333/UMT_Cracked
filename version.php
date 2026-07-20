@@ -9,14 +9,14 @@ $version = @file_get_contents($url);
 
 // Fallback if it fails
 if ($version === false) {
-    $version = "1.4.47";
+    $version = "1.5.6";
 }
 
 // Clean it (remove extra whitespace/newlines)
 $version = trim($version);
 
 echo json_encode([
-    "message" => "Version grabbed.",
     "status" => true,
+    "message" => "Version grabbed.",
     "version" => $version
 ]);
